@@ -61,7 +61,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+Scrum Master: brandt_ogden@uri.edu, Owner: vfaywofle@uri.edu.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -112,6 +112,48 @@ individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within the
 community.
+
+### Decision
+Before any major decision there has to be a discussion between all team members. If we can't 
+come to a consensus there will be a vote where majority rules.
+
+## Team Rules
+
+### Attendance
+It is expected that all team members show up to every class meeting unless there is a valid reason 
+for the abscence. Valid reasons but are not limited to sickness and emergencies. It should be 
+made clear to the group that you will be missing the meeting and it's your responsibility to 
+make up any work you missed. Repeated violations will be reported to Professor Fay-Wolfe.
+
+### Assignments
+The Scrum Master will communicate with devlopers about the due dates for assignments and the
+team will work collaboratively to meet the deadline. Any missing, incomplete, or bad work will
+be subject to review by the entire group. If the group comes to the decision that it was unsatisfactory,
+the person who's work it was will be responsible for completing it.
+
+### Participation
+During our daily SCRUM meetings we will have an open discussion where every group member will say what they
+are working on and what they need help with. We will ensure that everyone gets a voice.
+
+### Meeting Times / Location
+We will attend all class and project section meetings. If the group determines that additional meetings will
+be necesary the group will come to a decision on a location and time.
+
+### Agenda / Meeting Notes
+Each member of the group will be responsible for taking their own notes. In the event that a member misses
+a meeting someone will send that person the meeting notes.
+
+### Promptness
+Each member is expected to show up on time. Any tardiness will be dealt with on a case by case basis
+by a discussion of the group.
+
+### Conversational Courtesies
+Each member is expected to be respectful of others and allow everyone their turn to talk. In the event
+there is a violation it will be a discussion by the group to dicuss repurcussions.
+
+### Enforcement / Feedback
+Any problems that occurr should be brought up at the daily SCRUM meetings, and will result in a 
+discussion by the group.
 
 ## Attribution
 
