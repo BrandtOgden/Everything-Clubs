@@ -4,9 +4,9 @@
   * Team Action:
 
 * Observation 2 (James):
-  * Observation Statement:
-  * Supporting Data:
-  * Team Action:
+  * Observation Statement: A lot of people like having easy and accessible features to reach out to other members.
+  * Supporting Data: 5 of the 15 responses mentioned how they like how easy it is to reach out to other members in the group.
+  * Team Action: Give options to users to contact each other.
 
 * Observation 3 (Sam):
   * Observation Statement:
