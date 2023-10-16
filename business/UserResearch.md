@@ -1,7 +1,7 @@
 * Observation 1 (Brandt):
-  * Observation Statement:
-  * Supporting Data:
-  * Team Action:
+  * Observation Statement: People want to be able to have private conversations and conversations with different groups
+  * Supporting Data: 5 responses mentioned DMs or custom groupchats
+  * Team Action: Add the ability to DM members and to create different groups within the club
 
 * Observation 2 (James):
   * Observation Statement: A lot of people like having easy and accessible features to reach out to other members.
