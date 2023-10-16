@@ -155,6 +155,10 @@ there is a violation it will be a discussion by the group to dicuss repurcussion
 Any problems that occurr should be brought up at the daily SCRUM meetings, and will result in a 
 discussion by the group.
 
+### Signatures
+We hereby acknowledge that we will follow this code of conduct.
+![Signatures](src/Sigantures.jpg)
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
