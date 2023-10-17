@@ -29,14 +29,14 @@
       * The profile displays contact information
       * The contact information is interactable to provide easy access
 
-4. **User Story:** As a user I want to access a clubs forum board screen so I can interact with club specifics.
+4. **User Story:** *As a user I want to access a clubs forum board screen so I can interact with club specifics.*
    
    **Acceptance Criteria:**
       * When I click on Announcements I am brought to an annoucements page
       * When I click on a message board I can view and type messages
       * The information is seperated for executives and members.
 
-5. **User Story:** As a user I want to view a calender so that I can see club events
+5. **User Story:** *As a user I want to view a calender so that I can see club events*
      
    **Acceptance Criteria:**
       * When I open the calendar I can view upcoming club events
@@ -49,3 +49,11 @@
       * When the app opens, the first screen asks the user to sign up or sign in.
       * Users cannot sign up or in without their password, which is typed securely.
       * Executives can arbitrarily manipulate the Firebase backend to modify, add or remove accounts.
+  
+7. **User Story:** *As a user I want a screen to create and join clubs.*
+
+   **Acceptance Criteria:**
+      * When signed in the option to join a club should be present as well as create a club
+      * Creating a club will give executive permissions to the club owner
+      * Joining a club will give member permissions to person joining.
+
