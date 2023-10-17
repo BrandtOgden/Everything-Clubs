@@ -22,9 +22,12 @@
         on the forum, he can do so on one single platform instead of 2-3 (standard for fraternities)
 
 
-4. **User Story:** *Ability to DM and create different groups*
+3. **User Story:** As a general user, I want to click on a profile and be given multiple contact options so that I can easily contact other members.
     
    **Acceptance Criteria:**
+      * When a profile is clicked on it displays the profile
+      * The profile displays contact information
+      * The contact information is interactable to provide easy access
 
 5. **User Story:** *Ability to send out announcements*
    
