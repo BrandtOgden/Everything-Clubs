@@ -9,23 +9,32 @@
       * All important financial paperwork is linked
       * Other executive board members can view all of this but regular members can't
 
-2. **User Story:** *Discussion Forum*
+2. **User Story:** *AS A Fraternity Group Member, instead of my groups current three separate group chats and forums,
+   I want to have a Discussion Forum so my brothers and I can discuss important matters within our group and take votes
+   as an organization no later than November 20th.*
+    
+   **Acceptance Criteria:**
+      * Given an announcement board with different categories (parties, brotherhood events, charity events, etc.), when a
+        brother is inquiring for informations regarding events, they will be organized and easy to navigate
+      * Given a direct message avenue to and from every brother, when a member wants to reach out individually to either
+        exec or other members, he will be able to with ease
+      * Given a consolidation of all group boards and chats into one platform, when a brother seeks infomrations or to post
+        on the forum, he can do so on one single platform instead of 2-3 (standard for fraternities)
+
+
+4. **User Story:** *Ability to DM and create different groups*
     
    **Acceptance Criteria:**
 
-3. **User Story:** *Ability to DM and create different groups*
-    
-   **Acceptance Criteria:**
-
-4. **User Story:** *Ability to send out announcements*
+5. **User Story:** *Ability to send out announcements*
    
    **Acceptance Criteria:**
 
-5. **User Story:** *Calendar with upcoming events*
+6. **User Story:** *Calendar with upcoming events*
      
    **Acceptance Criteria:**
 
-6. **User Story:** *Place for propsective members to view information about clubs*
+7. **User Story:** *Place for propsective members to view information about clubs*
    
    **Acceptance Criteria:**
 
