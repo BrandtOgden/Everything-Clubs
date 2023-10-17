@@ -9,9 +9,9 @@
   * Team Action: Give options to users to contact each other.
 
 * Observation 3 (Sam):
-  * Observation Statement:
-  * Supporting Data:
-  * Team Action:
+  * Observation Statement: The target market is quite diversified in its interests, the latter always requiring organization and communications between members.
+  * Supporting Data: Of the 17 responses, 11 different organizations contributed, showing the wide demand and demographic for our product.
+  * Team Action: Be sure to create a universal experience in designing the UI and member/executive features to encompass all possible needs for groups.
 
 * Observation 4 (Henry):
   * Observation Statement: A lot of organizations are using either GroupMe or iMessage as their main forms of communication.
