@@ -9,7 +9,7 @@
       * All important financial paperwork is linked
       * Other executive board members can view all of this but regular members can't
 
-2. **User Story:** *AS A Fraternity Group Member, instead of my groups current three separate group chats and forums,
+2. **User Story:** *As a Fraternity Group Member, instead of my groups current three separate group chats and forums,
    I want to have a Discussion Forum so my brothers and I can discuss important matters within our group and take votes
    as an organization no later than November 20th.*
     
