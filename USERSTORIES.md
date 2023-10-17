@@ -44,4 +44,11 @@
    
    **Acceptance Criteria:**
 
+9. **User Story:** *As a general user, I want to sign up, in, and out of my account securely*
+
+   **Acceptance Criteria:**
+      * When the app opens, the first screen asks the user to sign up or sign in.
+      * Users cannot sign up or in without their password, which is typed securely.
+      * Executives can arbitrarily manipulate the Firebase backend to modify, add or remove accounts.
+
 ## MIGHT NEED TO ADD MORE USER STORIES
