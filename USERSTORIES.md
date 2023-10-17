@@ -29,15 +29,18 @@
       * The profile displays contact information
       * The contact information is interactable to provide easy access
 
-5. **User Story:** *Ability to send out announcements*
+5. **User Story:** As a user I want to access a clubs forum board screen so I can interact with club specifics.
    
    **Acceptance Criteria:**
+      * When I click on Announcements I am brought to an annoucements page
+      * When I click on a message board I can view and type messages
+      * The information is seperated for executives and members.
 
-6. **User Story:** *Calendar with upcoming events*
+7. **User Story:** *Calendar with upcoming events*
      
    **Acceptance Criteria:**
 
-7. **User Story:** *Place for propsective members to view information about clubs*
+8. **User Story:** *Place for propsective members to view information about clubs*
    
    **Acceptance Criteria:**
 
