@@ -19,6 +19,6 @@
   * Team Action: Use GroupMe and iMessage utilies.
 
 * Observation 5 (Jackson):
-  * Observation Statement:
-  * Supporting Data:
-  * Team Action: 
+  * Observation Statement: A significant fraction of the respondents hailed from Phi Kappa Psi.
+  * Supporting Data: It was the only repeated response in the second question, and it was repeated four times.
+  * Team Action: When the app is out, we might consider reaching out to Phi Kappa Psi for beta testers and early users.
