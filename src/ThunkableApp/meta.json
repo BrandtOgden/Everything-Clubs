@@ -9,7 +9,18 @@
             },
             "assets": {},
             "backendUpgradeVersion": 22,
-            "blockly": {},
+            "blockly": {
+                "7acf995d-cc1c-4383-a94b-e69798ec842b": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
+            },
             "categories": [
                 "Education"
             ],
@@ -17,6 +28,15 @@
                 "children": [
                     {
                         "id": "7acf995d-cc1c-4383-a94b-e69798ec842b"
+                    },
+                    {
+                        "id": "ded19261-c797-4ddb-9721-073c6bce106c"
+                    },
+                    {
+                        "id": "ee3d1b08-3cc3-40ec-8208-7261dc8f9902"
+                    },
+                    {
+                        "id": "66869a04-038c-4c79-9c71-123c9eddaeea"
                     }
                 ]
             },

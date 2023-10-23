@@ -113,11 +113,11 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within the
 community.
 
-### Decision
+## Team Rules
+
+### Decisions
 Before any major decision there has to be a discussion between all team members. If we can't 
 come to a consensus there will be a vote where majority rules.
-
-## Team Rules
 
 ### Attendance
 It is expected that all team members show up to every class meeting unless there is a valid reason 
