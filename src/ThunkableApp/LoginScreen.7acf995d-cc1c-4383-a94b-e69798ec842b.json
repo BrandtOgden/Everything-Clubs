@@ -101,7 +101,7 @@
             "children": [],
             "id": "2132c10c-2dd0-46db-820d-68017c3a3adc",
             "thunkableVersion": 424,
-            "name": "Logo"
+            "name": "SU_Logo"
         },
         {
             "type": "Group",
@@ -183,7 +183,7 @@
                     "children": [],
                     "id": "af15f1bf-55d4-4fa8-a6b1-ecfe1454e639",
                     "thunkableVersion": 425,
-                    "name": "Back_To_Login_BTN"
+                    "name": "SU_Finish_3"
                 },
                 {
                     "type": "Label",
@@ -201,9 +201,9 @@
                         "Width": 255,
                         "Visible": true,
                         "X": 60,
-                        "Y": 250,
+                        "Y": 200,
                         "RelativeX": 60,
-                        "RelativeY": 250,
+                        "RelativeY": 200,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "color": "rgba(255, 255, 255, 1)",
@@ -252,7 +252,7 @@
                     "children": [],
                     "id": "7c4a51ec-c292-4b7d-a5a3-cf5628821654",
                     "thunkableVersion": 425,
-                    "name": "Label1"
+                    "name": "SU_Instruction_3"
                 },
                 {
                     "type": "Image",
@@ -299,7 +299,7 @@
                     "id": "8fe7560b-ba4f-42d3-a3cd-3ef6b9eb1bd6",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Step_3_Image"
+                    "name": "SU_StepIndicator_3"
                 }
             ],
             "id": "977877e6-7b56-4fcf-a97b-4d1c0430dd78",
@@ -335,6 +335,76 @@
                 "resizeMode": "contain"
             },
             "children": [
+                {
+                    "type": "Label",
+                    "translatedName": "Label",
+                    "reactType": "Text",
+                    "properties": {
+                        "Text": "Make a password",
+                        "FontSize": 24,
+                        "CustomFont": "",
+                        "LineHeight": 1,
+                        "Color": "rgba(255, 255, 255, 1)",
+                        "TextAlign": "center",
+                        "Height": 40,
+                        "Width": 275,
+                        "Visible": true,
+                        "X": 50,
+                        "Y": 200,
+                        "RelativeX": 50,
+                        "RelativeY": 200,
+                        "ResizeMode": "STRETCH",
+                        "style": {
+                            "color": "rgba(255, 255, 255, 1)",
+                            "fontSize": 24,
+                            "fontStyle": "normal",
+                            "textShadowOffset": {},
+                            "letterSpacing": 0,
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textDecorationColor": "rgba(0, 0, 0, 1)",
+                            "writingDirection": "auto",
+                            "marginTop": 0,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "flexWrap": "wrap",
+                            "borderWidth": 0,
+                            "borderRadius": 0,
+                            "borderColor": "rgba(236, 237, 237, 1)",
+                            "borderStyle": "solid",
+                            "shadowColor": "rgba(0, 0, 0, 0)",
+                            "shadowOpacity": 0,
+                            "scaledShadowOpacity": 0,
+                            "shadowRadius": 0,
+                            "shadowOffset": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "position": "absolute",
+                            "left": "39.333333333333336%",
+                            "top": "27.586206896551722%",
+                            "lineHeight": 1,
+                            "display": "flex",
+                            "textAlign": "center"
+                        },
+                        "ParentId": "7acf995d-cc1c-4383-a94b-e69798ec842b",
+                        "position": "absolute",
+                        "edgeOffsets": {
+                            "left": "39.333333333333336%",
+                            "top": "27.586206896551722%"
+                        },
+                        "children": "Make a password"
+                    },
+                    "children": [],
+                    "id": "0bdef12b-f3ab-46df-8b0f-384a2ab570f5",
+                    "thunkableVersion": 425,
+                    "name": "SU_Instruction_2"
+                },
                 {
                     "type": "Button",
                     "translatedName": "Button",
@@ -387,7 +457,7 @@
                     "id": "f418f644-1cc7-4170-bcc0-54876b9bc6c8",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Previous_BTN"
+                    "name": "SU_Previous_2"
                 },
                 {
                     "type": "Button",
@@ -441,7 +511,7 @@
                     "id": "58355798-ede3-4228-a1c2-e22b32404301",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Back_S2_BTN"
+                    "name": "SU_Cancel_2"
                 },
                 {
                     "type": "Button",
@@ -494,15 +564,15 @@
                     "children": [],
                     "id": "86d4643d-3976-45d8-9a51-9d1a602cd1a5",
                     "thunkableVersion": 425,
-                    "name": "Create_Acc_SU"
+                    "name": "SU_Next_2"
                 },
                 {
                     "type": "TextInput",
                     "translatedName": "Text Input",
                     "properties": {
                         "Hint": "Confirm password",
-                        "Height": 42,
-                        "Width": 277,
+                        "Height": 40,
+                        "Width": 275,
                         "Visible": true,
                         "X": 50,
                         "Y": 300,
@@ -560,7 +630,7 @@
                     "id": "1a9c9898-40ed-4460-96f6-c688d37cecc5",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Cfrm_Password_TI"
+                    "name": "SU_CfrmPassword_2"
                 },
                 {
                     "type": "TextInput",
@@ -625,7 +695,7 @@
                     "children": [],
                     "id": "322cad6e-268d-4c97-b429-2de6793a262b",
                     "thunkableVersion": 425,
-                    "name": "Password_TI_SU"
+                    "name": "SU_Password_2"
                 },
                 {
                     "type": "Image",
@@ -672,7 +742,7 @@
                     "id": "5431cd56-1366-4ad5-8719-032995ddfa8f",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Step_2_Image"
+                    "name": "SU_StepIndicator_2"
                 }
             ],
             "id": "a1072943-90d0-4789-9785-d9b694d6cc2d",
@@ -689,13 +759,13 @@
                 "CustomFont": "",
                 "LineHeight": 1,
                 "Color": "rgba(208, 2, 27, 1)",
-                "Height": 51,
-                "Width": 383,
+                "Height": 100,
+                "Width": 375,
                 "Visible": true,
-                "X": -8,
-                "Y": 546,
-                "RelativeX": -8,
-                "RelativeY": 546,
+                "X": 0,
+                "Y": 550,
+                "RelativeX": 0,
+                "RelativeY": 550,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(208, 2, 27, 1)",
@@ -746,7 +816,7 @@
             "children": [],
             "id": "0af67fe7-321d-4f78-b629-2375c57a404d",
             "thunkableVersion": 425,
-            "name": "Error_Label"
+            "name": "SU_ErrorLabel"
         },
         {
             "type": "Group",
@@ -829,7 +899,7 @@
                     "id": "4c0463b9-1b08-4536-bc04-998f10555c98",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Back_SU1"
+                    "name": "SU_Cancel_1"
                 },
                 {
                     "type": "Label",
@@ -898,7 +968,7 @@
                     "children": [],
                     "id": "0f987a13-fdcc-4da3-883c-f7aafc211ff0",
                     "thunkableVersion": 425,
-                    "name": "Label2"
+                    "name": "SU_Instruction_1"
                 },
                 {
                     "type": "Image",
@@ -944,7 +1014,7 @@
                     "children": [],
                     "id": "608abee4-7457-4283-8917-147a1e7ce22c",
                     "thunkableVersion": 424,
-                    "name": "Step_1_Image"
+                    "name": "SU_StepIndicator_1"
                 },
                 {
                     "type": "TextInput",
@@ -1011,61 +1081,7 @@
                     "children": [],
                     "id": "d03b4d35-aeb3-498a-a29b-9aca27bfa55f",
                     "thunkableVersion": 424,
-                    "name": "Email_SU_TI"
-                },
-                {
-                    "type": "Button",
-                    "translatedName": "Button",
-                    "properties": {
-                        "Text": "Back To Login",
-                        "TextColor": "#FFFFFF",
-                        "FontSize": 16,
-                        "CustomFont": "",
-                        "BackgroundColor": "rgba(93, 122, 252, 100)",
-                        "Height": 49,
-                        "Width": 311,
-                        "Visible": false,
-                        "X": 37,
-                        "Y": 367,
-                        "RelativeX": 37,
-                        "RelativeY": 367,
-                        "ResizeMode": "STRETCH",
-                        "style": {
-                            "marginTop": 0,
-                            "marginBottom": 0,
-                            "marginLeft": 0,
-                            "marginRight": 0,
-                            "paddingTop": 0,
-                            "paddingBottom": 0,
-                            "paddingLeft": 0,
-                            "paddingRight": 0,
-                            "borderRadius": 15,
-                            "shadowColor": "rgba(0, 0, 0, 0)",
-                            "shadowOpacity": 0,
-                            "scaledShadowOpacity": 0,
-                            "shadowRadius": 0,
-                            "shadowOffset": {
-                                "width": 0,
-                                "height": 0
-                            },
-                            "position": "absolute",
-                            "left": "26.800004069010416%",
-                            "top": "31.31559220389805%",
-                            "display": "none"
-                        },
-                        "FontBold": false,
-                        "FontItalic": false,
-                        "Raised": false,
-                        "Disabled": false,
-                        "ParentId": "ded19261-c797-4ddb-9721-073c6bce106c",
-                        "position": "absolute",
-                        "edgeOffsets": 367
-                    },
-                    "children": [],
-                    "id": "7ca6bf3f-815a-4041-abb6-b3ae7ea57233",
-                    "thunkableVersion": 425,
-                    "bindings": null,
-                    "name": "Back_S1_BTN"
+                    "name": "SU_Email_1"
                 },
                 {
                     "type": "Button",
@@ -1118,7 +1134,7 @@
                     "children": [],
                     "id": "df8492c0-9e2d-4925-bd5e-7435e9b09513",
                     "thunkableVersion": 424,
-                    "name": "Next_1_SignUp"
+                    "name": "SU_Next_1"
                 }
             ],
             "id": "c6062623-e16a-4135-8bb8-030ce873a766",
@@ -1221,7 +1237,7 @@
                     "children": [],
                     "id": "6373c40f-cc3f-4f3b-bee7-d3517c0fbfd9",
                     "thunkableVersion": 425,
-                    "name": "Label3"
+                    "name": "SU_RememberLabel_0"
                 },
                 {
                     "type": "Switch",
@@ -1236,10 +1252,10 @@
                         "offThumbTintColor": "rgba(248, 249, 251, 100)",
                         "Height": 20,
                         "Width": 40,
-                        "X": 284,
-                        "Y": 349,
-                        "RelativeX": 284,
-                        "RelativeY": 349,
+                        "X": 285,
+                        "Y": 350,
+                        "RelativeX": 285,
+                        "RelativeY": 350,
                         "ResizeMode": "STRETCH",
                         "ParentId": "7acf995d-cc1c-4383-a94b-e69798ec842b",
                         "position": "absolute",
@@ -1254,7 +1270,7 @@
                     "children": [],
                     "id": "73fd82e2-30c0-410e-a34d-57b774cc3bb3",
                     "thunkableVersion": 425,
-                    "name": "Switch"
+                    "name": "SU_RememberSwitch_0"
                 },
                 {
                     "type": "Button",
@@ -1309,7 +1325,7 @@
                     "id": "3cba4b4b-e5e1-4e48-aa49-7cbc57ac6454",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Forgot_BTN"
+                    "name": "SU_ForgotPassword_0"
                 },
                 {
                     "type": "Button",
@@ -1363,7 +1379,7 @@
                     "id": "d5b09600-c385-4c45-845a-621bef6f5093",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Create_Acc"
+                    "name": "SU_SignUp_0"
                 },
                 {
                     "type": "TextInput",
@@ -1429,7 +1445,7 @@
                     "id": "5cc4ce8a-16a9-4124-a0a8-3993e51805b5",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "Password_TI"
+                    "name": "SU_Password_0"
                 },
                 {
                     "type": "Button",
@@ -1482,7 +1498,7 @@
                     "children": [],
                     "id": "c9c31541-e04d-46bc-b303-ca657ba0fa7e",
                     "thunkableVersion": 424,
-                    "name": "Login_BTN"
+                    "name": "SU_LogIn_0"
                 },
                 {
                     "type": "TextInput",
@@ -1546,7 +1562,7 @@
                     "children": [],
                     "id": "5c65a71f-5edc-48a0-ae38-a804d6e8b1d9",
                     "thunkableVersion": 424,
-                    "name": "Email_TI"
+                    "name": "SU_Email_0"
                 }
             ],
             "id": "3390f1cf-b96a-49a9-9628-d62fbcae18df",
@@ -1555,5 +1571,5 @@
         }
     ],
     "thunkableVersion": 424,
-    "name": "Login Screen"
+    "name": "LoginScreen"
 }

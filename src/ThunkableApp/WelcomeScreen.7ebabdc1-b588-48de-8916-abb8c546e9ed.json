@@ -67,13 +67,13 @@
                 "CustomFont": "",
                 "LineHeight": 1,
                 "Color": "rgba(208, 2, 27, 1)",
-                "Height": 72,
+                "Height": 100,
                 "Width": 375,
                 "Visible": true,
                 "X": 0,
-                "Y": 530,
+                "Y": 550,
                 "RelativeX": 0,
-                "RelativeY": 530,
+                "RelativeY": 550,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(208, 2, 27, 1)",
@@ -120,7 +120,7 @@
             "children": [],
             "id": "34520886-6d92-418d-ac86-944625ed8305",
             "thunkableVersion": 425,
-            "name": "Error Label"
+            "name": "WE_ErrorLabel"
         },
         {
             "type": "Button",
@@ -135,9 +135,9 @@
                 "Width": 275,
                 "Visible": true,
                 "X": 50,
-                "Y": 435,
+                "Y": 500,
                 "RelativeX": 50,
-                "RelativeY": 435,
+                "RelativeY": 500,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -173,7 +173,7 @@
             "children": [],
             "id": "d326dffe-df9b-4a13-8265-697a49eba87c",
             "thunkableVersion": 425,
-            "name": "Sign Out Button"
+            "name": "WE_SignOut"
         },
         {
             "type": "Label",
@@ -190,9 +190,9 @@
                 "Height": 100,
                 "Width": 275,
                 "Visible": true,
-                "X": 50,
+                "X": 48,
                 "Y": 275,
-                "RelativeX": 50,
+                "RelativeX": 48,
                 "RelativeY": 275,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -243,9 +243,9 @@
             "children": [],
             "id": "684c9916-97ba-4613-ac39-bd445f40f0f9",
             "thunkableVersion": 425,
-            "name": "Label4"
+            "name": "WE_WelcomeLabel"
         }
     ],
     "thunkableVersion": 425,
-    "name": "Screen1"
+    "name": "WelcomeScreen"
 }

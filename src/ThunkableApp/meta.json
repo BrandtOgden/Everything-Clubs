@@ -296,7 +296,7 @@
             "variables": {
                 "80ac4031-880d-4291-ac6e-f60faea94a14": {
                     "scope": "APP",
-                    "name": "currentlySigningIn",
+                    "name": "signInStep",
                     "screenId": "7acf995d-cc1c-4383-a94b-e69798ec842b"
                 },
                 "ee1f1da4-e807-4ac5-a1ea-8a05b5c4505b": {
