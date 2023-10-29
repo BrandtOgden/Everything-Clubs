@@ -180,7 +180,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Welcome to Everything Clubs!",
+                "Text": "Sign Out Screen",
                 "FontSize": 32,
                 "CustomFont": "",
                 "LineHeight": 1,
@@ -237,7 +237,7 @@
                 "ParentId": "7ebabdc1-b588-48de-8916-abb8c546e9ed",
                 "position": "absolute",
                 "edgeOffsets": 268,
-                "children": "Welcome to Everything Clubs!",
+                "children": "Sign Out Screen",
                 "Font": "Abril Fatface"
             },
             "children": [],
@@ -247,5 +247,5 @@
         }
     ],
     "thunkableVersion": 425,
-    "name": "WelcomeScreen"
+    "name": "Sign Out Screen"
 }
