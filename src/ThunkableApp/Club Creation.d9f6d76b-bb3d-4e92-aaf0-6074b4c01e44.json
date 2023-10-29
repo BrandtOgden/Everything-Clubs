@@ -6,7 +6,6 @@
         "Height": "Fill container",
         "Width": "Fill container",
         "Layout": "column",
-        "BackgroundColor": "rgba(80, 75, 58, 1)",
         "Justification": "center",
         "Alignment": "center",
         "Visible": true,
@@ -30,8 +29,7 @@
             "flexDirection": "column",
             "justifyContent": "center",
             "alignItems": "center",
-            "display": "flex",
-            "backgroundColor": "rgba(80, 75, 58, 1)"
+            "display": "flex"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -61,21 +59,21 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "List of Clubs that person is currently in. Button to create and join clubs. Another group with a list of all of the clubs when a user presses join",
+                "Text": "When user presses create club this gives them the ability to add the name, description, and invite people",
                 "FontSize": 18,
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(255, 255, 255, 1)",
-                "Height": 233,
+                "Color": "rgba(0, 0, 0, 1)",
+                "Height": 189,
                 "Width": 313,
                 "Visible": true,
                 "X": 32,
-                "Y": 122,
+                "Y": 72,
                 "RelativeX": 32,
-                "RelativeY": 122,
+                "RelativeY": 72,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(255, 255, 255, 1)",
+                    "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
                     "textShadowOffset": {},
@@ -106,23 +104,23 @@
                         "height": 0
                     },
                     "position": "absolute",
-                    "left": "26.160005696614583%",
-                    "top": "32.72488664115208%",
+                    "left": "22.693339029947918%",
+                    "top": "18.6319331179137%",
                     "lineHeight": 1,
                     "display": "flex"
                 },
-                "ParentId": "890ed407-b4dc-46e3-8fd6-75d3eb83958d",
+                "ParentId": "d9f6d76b-bb3d-4e92-aaf0-6074b4c01e44",
                 "position": "absolute",
-                "edgeOffsets": 122,
-                "children": "List of Clubs that person is currently in. Button to create and join clubs. Another group with a list of all of the clubs when a user presses join"
+                "edgeOffsets": 72,
+                "children": "When user presses create club this gives them the ability to add the name, description, and invite people"
             },
             "children": [],
-            "id": "fb6d89d0-04dd-43e2-b3f7-22bfa0121ae7",
+            "id": "1da4869a-d1b7-4660-979c-a3950703afb7",
             "thunkableVersion": 426,
-            "name": "Label1"
+            "name": "Label3"
         }
     ],
-    "id": "890ed407-b4dc-46e3-8fd6-75d3eb83958d",
-    "thunkableVersion": 425,
-    "name": "Club Landing Page"
+    "id": "d9f6d76b-bb3d-4e92-aaf0-6074b4c01e44",
+    "thunkableVersion": 426,
+    "name": "Club Creation"
 }
