@@ -2,7 +2,7 @@
 
 Metrics   
 **1. Net Promoter Score (Sam):**   
-**2. Daily Active Users (James):**    
+**2. Daily Active Users (James):** When a user logs into their account for the first time in a day, the Firebase database could be updated from Thunkable to reflect this action. Using this data, we can organize it such that we can observe trends to determine how well our app is performing.    
 **3. Churn Rate (Jackson):** When a user completes the signup process, a Thunkable observer block in the Login Screen would fire, sending a signal to Firebase with the current date/time. Firebase would update the relevant database backend with the new data point, which will be made available with others in the next Google Analytics report upon request. A possible graph representing these data points might be a line graph, where the data is categorized into hours or days. The graph would show the number of new signups, not total signups.  
 **4. Number of Downloads (Henry):**  
 **5. Time on App Per Day (Brandt):** Firebase Analytics already has a built in function for computing the average time that users on the app are engaged. It does so by determining how long all of the users of the app are actually focused on the app (if the app is in the foreground not background) and dividing that by the total number of users. This would give us a good idea of how long people are using our app and in what ways the things we add to the app affect user engagement. It would also be very easy to implement as it's already built into Firebase Analytics so all we would have to do is set up the SDK for Android Studio.  
