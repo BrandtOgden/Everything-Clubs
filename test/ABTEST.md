@@ -12,12 +12,13 @@
 
 ## AB Test Name: Color Scheme (James) 
 
-**User Story Number:**  
+**User Story Number:**  6
 
-**Metric:**
-**Hypothesis:**
+**Metric:** Time on app per day per week
 
-**Experiment:**
+**Hypothesis:** The color scheming of an app can greatly alter the user experience. Colors have a subconscious affect on how much a user can enjoy using the app. Currently, our app has a green color scheme to reflect the outdoors. Our current color scheme involves the colors DDE392, AFBE8F, 7D8570, 646F58, and 504B3A. I hypothesize that using the colors 313268, 595358, 857F74, A4AC96, and CADF9E will decrease the average time on the app per day per week because it is using more modern and professional colors, but lacks the nice coherency of the first set of colors.
 
-**Variations:**
+**Experiment:** I will use Firebase's AB testing to allocate 5% of our userbase to have the new color scheme of 313268, 595358, 857F74, A4AC96, and CADF9E. Only 5% of our users will experience the change so that the majority of our userbase will not be affected by the experimental change. By tracking the average time on our app per day per week, we can see how the new color scheme performs in comparison to the old one.
+
+**Variations:** The "A" variation of our app will have the color scheme DDE392, AFBE8F, 7D8570, 646F58, and 504B3A. The "B" variation of our app will have the color scheme 313268, 595358, 857F74, A4AC96, and CADF9E.
 
