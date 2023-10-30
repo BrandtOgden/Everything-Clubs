@@ -1,6 +1,6 @@
 ## AB Test Name: Landing Page
 
-**User Story Number:**  31
+**User Story Number:**  8
 
 **Metric:** Average time spent on the landing screen (between the screen opening and closing), measured in seconds
 
@@ -12,7 +12,7 @@
 
 ## AB Test Name: Color Scheme (James) 
 
-**User Story Number:**  6
+**User Story Number:**  9
 
 **Metric:** Time on app per day per week
 
