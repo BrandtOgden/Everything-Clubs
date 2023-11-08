@@ -1,5 +1,4 @@
 {
-    "id": "890ed407-b4dc-46e3-8fd6-75d3eb83958d",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -123,6 +122,7 @@
             "name": "Label1"
         }
     ],
+    "id": "890ed407-b4dc-46e3-8fd6-75d3eb83958d",
     "thunkableVersion": 425,
     "name": "Club Landing Page"
 }
