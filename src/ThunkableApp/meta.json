@@ -4,7 +4,25 @@
             "apiComponents": {
                 "ApiContainer": {
                     "id": "ApiContainer",
-                    "children": []
+                    "children": [
+                        {
+                            "type": "Alert",
+                            "translatedName": "Alert",
+                            "isApi": true,
+                            "properties": {
+                                "ConfirmButton": {
+                                    "Text": "Confirm"
+                                },
+                                "CancelButton": {
+                                    "Text": "Cancel"
+                                }
+                            },
+                            "children": [],
+                            "id": "ef1b9525-7057-4fa9-842c-836122944431",
+                            "thunkableVersion": 428,
+                            "name": "Alert1"
+                        }
+                    ]
                 }
             },
             "assets": {
@@ -149,8 +167,8 @@
                     "createdAt": "2023-10-24T01:12:51.250Z",
                     "updatedAt": "2023-10-24T01:12:51.250Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65371a13c08e5d98f512fb42?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231108%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231108T184348Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=891f93f5042593e93eb492c14e39e7a1c9a77d6003865025af3c3d93e2699870c95e3c0136c7cc95a20d8125010a2a2d9cec7d781a98c0c2ec581505ef8de7a880a0285d6a3c7ab8a79baf1a758d89a8789571a6cf09a4245b20b65035a44ac328fabe6c68ae29a12db849debc79412a717d663297092e61a1abf3bed4c5b8344eb5302b6e6c2b90386f616cf90ac25fa48b01de8ee19b2c21a2dfa2fb2ce7c69f88df2ff1a8a00960b5274833be56d534e3fabe969d0e72396080021be1421aca137c29b6f98ef31bdc5e84a73c7bb32a4cce5a916f0bf1517b7034736f4a8768685a9e6eddbe248dd2504e61399fa0d014e352b3a637d827e55926b0d2f359",
-                    "signedUrlExpirationTime": 1699641828221
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65371a13c08e5d98f512fb42?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231109%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231109T160405Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=04916660cb5890a066bb44af045282c34472d428be574f6025ecfbb89f3745f292d76fa4e3cdd33eb5509821d10ca795a43fa42699bbd9c4f08cfdcc0f74dc5916f94d090bf3ecfd2072d249c0aac2fb05c7721d5afa5f7a0886d4194674436173b78440c09bbded4f4c899683255f78d28114360f951980dbbd99ef594ec3c684fcf955b703d855130cbc831f7cfaabf96a75b8eb67a8988a9772b9c2f93fa39e46dd2ce7c316003fcbe8267827524f8fb7484a68e0d20bd8dc6a6104892499194c068287a9ffe98f5fb6378aa9a48ce059e57627b26d28f31b9a4698e6936aceb78d89f823a5e76052057a6fb6da8697fa8c59fd17765b37d0641dca245c0c",
+                    "signedUrlExpirationTime": 1699718645996
                 }
             },
             "backendUpgradeVersion": 23,
@@ -221,7 +239,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Everything Clubs",
+            "projectName": "Everything Clubs with Join Club",
             "settings": {
                 "teamId": null,
                 "appName": "305 Capstone",
@@ -357,6 +375,11 @@
                     "scope": "APP",
                     "name": "counter",
                     "screenId": "a50d052a-1777-487d-a981-593235ad14dc"
+                },
+                "3c363472-30f8-43d8-ba42-8e7e4e27b076": {
+                    "scope": "APP",
+                    "name": "ClubCounter",
+                    "screenId": "449b2711-ba7e-4eed-b907-8c6a25975540"
                 }
             },
             "defaultDesignerDevice": "PHONE",
