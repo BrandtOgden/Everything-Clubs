@@ -1,4 +1,5 @@
 {
+    "id": "449b2711-ba7e-4eed-b907-8c6a25975540",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -738,7 +739,6 @@
             "name": "Group1"
         }
     ],
-    "id": "449b2711-ba7e-4eed-b907-8c6a25975540",
     "thunkableVersion": 426,
     "name": "Club Description"
 }
