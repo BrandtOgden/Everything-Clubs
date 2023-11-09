@@ -1,4 +1,5 @@
 {
+    "id": "d9f6d76b-bb3d-4e92-aaf0-6074b4c01e44",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -120,7 +121,6 @@
             "name": "Label3"
         }
     ],
-    "id": "d9f6d76b-bb3d-4e92-aaf0-6074b4c01e44",
     "thunkableVersion": 426,
     "name": "Club Creation"
 }
