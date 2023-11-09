@@ -4,7 +4,25 @@
             "apiComponents": {
                 "ApiContainer": {
                     "id": "ApiContainer",
-                    "children": []
+                    "children": [
+                        {
+                            "type": "Alert",
+                            "translatedName": "Alert",
+                            "isApi": true,
+                            "properties": {
+                                "ConfirmButton": {
+                                    "Text": "Confirm"
+                                },
+                                "CancelButton": {
+                                    "Text": "Cancel"
+                                }
+                            },
+                            "children": [],
+                            "id": "ef1b9525-7057-4fa9-842c-836122944431",
+                            "thunkableVersion": 428,
+                            "name": "Alert1"
+                        }
+                    ]
                 }
             },
             "assets": {
@@ -149,6 +167,7 @@
                     "createdAt": "2023-10-24T01:12:51.250Z",
                     "updatedAt": "2023-10-24T01:12:51.250Z",
                     "__v": 0,
+
                     "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65371a13c08e5d98f512fb42?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231109%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231109T160405Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=04916660cb5890a066bb44af045282c34472d428be574f6025ecfbb89f3745f292d76fa4e3cdd33eb5509821d10ca795a43fa42699bbd9c4f08cfdcc0f74dc5916f94d090bf3ecfd2072d249c0aac2fb05c7721d5afa5f7a0886d4194674436173b78440c09bbded4f4c899683255f78d28114360f951980dbbd99ef594ec3c684fcf955b703d855130cbc831f7cfaabf96a75b8eb67a8988a9772b9c2f93fa39e46dd2ce7c316003fcbe8267827524f8fb7484a68e0d20bd8dc6a6104892499194c068287a9ffe98f5fb6378aa9a48ce059e57627b26d28f31b9a4698e6936aceb78d89f823a5e76052057a6fb6da8697fa8c59fd17765b37d0641dca245c0c",
                     "signedUrlExpirationTime": 1699718645996
                 }
@@ -175,7 +194,26 @@
                         "iap": false
                     }
                 },
-                "6536afb407fba9782d4ae6e4": {}
+                "449b2711-ba7e-4eed-b907-8c6a25975540": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "890ed407-b4dc-46e3-8fd6-75d3eb83958d": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
             },
             "categories": [
                 "Education"
@@ -202,7 +240,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Everything Clubs",
+            "projectName": "Everything Clubs with Join Club",
             "settings": {
                 "teamId": null,
                 "appName": "305 Capstone",
@@ -328,6 +366,11 @@
                     "scope": "APP",
                     "name": "user ID",
                     "screenId": "7acf995d-cc1c-4383-a94b-e69798ec842b"
+                },
+                "3c363472-30f8-43d8-ba42-8e7e4e27b076": {
+                    "scope": "APP",
+                    "name": "ClubCounter",
+                    "screenId": "449b2711-ba7e-4eed-b907-8c6a25975540"
                 }
             },
             "defaultDesignerDevice": "PHONE",
