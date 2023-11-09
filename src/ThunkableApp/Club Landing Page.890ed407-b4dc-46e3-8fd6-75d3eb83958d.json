@@ -1,0 +1,128 @@
+{
+    "id": "890ed407-b4dc-46e3-8fd6-75d3eb83958d",
+    "type": "Screen",
+    "translatedName": "Screen",
+    "reactType": "ViewWithProps",
+    "properties": {
+        "Height": "Fill container",
+        "Width": "Fill container",
+        "Layout": "column",
+        "BackgroundColor": "rgba(80, 75, 58, 1)",
+        "Justification": "center",
+        "Alignment": "center",
+        "Visible": true,
+        "style": {
+            "marginTop": 0,
+            "marginBottom": 0,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "shadowColor": "rgba(0, 0, 0, 0)",
+            "shadowOpacity": 0,
+            "scaledShadowOpacity": 0,
+            "shadowRadius": 0,
+            "shadowOffset": {
+                "width": 0,
+                "height": 0
+            },
+            "flexDirection": "column",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "display": "flex",
+            "backgroundColor": "rgba(80, 75, 58, 1)"
+        },
+        "ShowStatusBar": true,
+        "StatusBarStyle": "default",
+        "TranslucentStatusBar": false,
+        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "TabNavigationOptions": {
+            "tabBarVisible": true
+        },
+        "TabNavigatorIcon": {},
+        "DrawerNavigationOptions": {},
+        "StackNavigationOptions": {
+            "headerStyle": {}
+        },
+        "ScreenOrientation": "portrait",
+        "DesignerHeight": 667,
+        "DesignerWidth": 375,
+        "ResponsiveWidth": 375,
+        "isSimple": true,
+        "navigationOptions": {
+            "headerStyle": {}
+        },
+        "tabNavigationOptions": {}
+    },
+    "children": [
+        {
+            "type": "Label",
+            "translatedName": "Label",
+            "reactType": "Text",
+            "properties": {
+                "Text": "List of Clubs that person is currently in. Button to create and join clubs. Another group with a list of all of the clubs when a user presses join",
+                "FontSize": 18,
+                "CustomFont": "",
+                "LineHeight": 1,
+                "Color": "rgba(255, 255, 255, 1)",
+                "Height": 233,
+                "Width": 313,
+                "Visible": true,
+                "X": 32,
+                "Y": 122,
+                "RelativeX": 32,
+                "RelativeY": 122,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "color": "rgba(255, 255, 255, 1)",
+                    "fontSize": 18,
+                    "fontStyle": "normal",
+                    "textShadowOffset": {},
+                    "letterSpacing": 0,
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textDecorationColor": "rgba(0, 0, 0, 1)",
+                    "writingDirection": "auto",
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "flexWrap": "wrap",
+                    "borderWidth": 0,
+                    "borderRadius": 0,
+                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderStyle": "solid",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "26.160005696614583%",
+                    "top": "32.72488664115208%",
+                    "lineHeight": 1,
+                    "display": "flex"
+                },
+                "ParentId": "890ed407-b4dc-46e3-8fd6-75d3eb83958d",
+                "position": "absolute",
+                "edgeOffsets": 122,
+                "children": "List of Clubs that person is currently in. Button to create and join clubs. Another group with a list of all of the clubs when a user presses join"
+            },
+            "children": [],
+            "id": "fb6d89d0-04dd-43e2-b3f7-22bfa0121ae7",
+            "thunkableVersion": 426,
+            "name": "Label1"
+        }
+    ],
+    "thunkableVersion": 425,
+    "name": "Club Landing Page"
+}
