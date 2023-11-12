@@ -212,6 +212,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "d9f6d76b-bb3d-4e92-aaf0-6074b4c01e44": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -380,6 +390,16 @@
                     "scope": "APP",
                     "name": "ClubCounter",
                     "screenId": "449b2711-ba7e-4eed-b907-8c6a25975540"
+                },
+                "4dc4b15d-31a8-4d85-b629-39cdd9fd20cb": {
+                    "scope": "APP",
+                    "name": "CC_Step",
+                    "screenId": "d9f6d76b-bb3d-4e92-aaf0-6074b4c01e44"
+                },
+                "d6993dd2-aa45-422e-bbc3-bc05f0f92846": {
+                    "scope": "CLOUD",
+                    "name": "NextClubID",
+                    "screenId": "d9f6d76b-bb3d-4e92-aaf0-6074b4c01e44"
                 }
             },
             "defaultDesignerDevice": "PHONE",

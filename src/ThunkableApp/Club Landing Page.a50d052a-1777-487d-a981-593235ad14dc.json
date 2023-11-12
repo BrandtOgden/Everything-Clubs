@@ -1,4 +1,5 @@
 {
+    "id": "a50d052a-1777-487d-a981-593235ad14dc",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -1231,7 +1232,6 @@
             "name": "No_Clubs_GRP"
         }
     ],
-    "id": "a50d052a-1777-487d-a981-593235ad14dc",
     "thunkableVersion": 426,
     "name": "Club Landing Page"
 }
