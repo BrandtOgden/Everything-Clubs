@@ -58,52 +58,6 @@
     },
     "children": [
         {
-            "type": "Image",
-            "translatedName": "Image",
-            "properties": {
-                "resizeMode": "contain",
-                "Height": 250,
-                "Width": 375,
-                "Visible": true,
-                "X": 0,
-                "Y": 0,
-                "RelativeX": 0,
-                "RelativeY": 0,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "27.653336588541666%",
-                    "top": "21.036356821589205%",
-                    "display": "flex"
-                },
-                "capInsets": {},
-                "ParentId": "7acf995d-cc1c-4383-a94b-e69798ec842b",
-                "position": "absolute",
-                "edgeOffsets": 0,
-                "Picture": "everything-clubs-high-resolution-logo-removebg-preview-2.png"
-            },
-            "children": [],
-            "id": "2132c10c-2dd0-46db-820d-68017c3a3adc",
-            "thunkableVersion": 424,
-            "name": "SU_Logo"
-        },
-        {
             "type": "Group",
             "label": "Group",
             "translatedName": "Group",
@@ -1172,6 +1126,52 @@
                 "BackgroundColor": "rgba(0, 0, 0, 0)"
             },
             "children": [
+                {
+                    "type": "Image",
+                    "translatedName": "Image",
+                    "properties": {
+                        "resizeMode": "contain",
+                        "Height": 227,
+                        "Width": 355,
+                        "Visible": true,
+                        "X": 10,
+                        "Y": 13,
+                        "RelativeX": 10,
+                        "RelativeY": 13,
+                        "ResizeMode": "STRETCH",
+                        "style": {
+                            "marginTop": 0,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "shadowColor": "rgba(0, 0, 0, 0)",
+                            "shadowOpacity": 0,
+                            "scaledShadowOpacity": 0,
+                            "shadowRadius": 0,
+                            "shadowOffset": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "position": "absolute",
+                            "left": "27.653336588541666%",
+                            "top": "21.036356821589205%",
+                            "display": "flex"
+                        },
+                        "capInsets": {},
+                        "ParentId": "7acf995d-cc1c-4383-a94b-e69798ec842b",
+                        "position": "absolute",
+                        "edgeOffsets": 13,
+                        "Picture": "image.png"
+                    },
+                    "children": [],
+                    "id": "2132c10c-2dd0-46db-820d-68017c3a3adc",
+                    "thunkableVersion": 424,
+                    "name": "SU_Logo"
+                },
                 {
                     "type": "Label",
                     "translatedName": "Label",
