@@ -62,7 +62,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Error",
+                "Text": "",
                 "FontSize": 22,
                 "CustomFont": "",
                 "LineHeight": 1,
@@ -116,7 +116,7 @@
                 "ParentId": "d9f6d76b-bb3d-4e92-aaf0-6074b4c01e44",
                 "position": "absolute",
                 "edgeOffsets": 72,
-                "children": "Error",
+                "children": "",
                 "FontWeight": "bold"
             },
             "children": [],
@@ -1273,5 +1273,5 @@
         }
     ],
     "thunkableVersion": 426,
-    "name": "Club Creation"
+    "name": "Create Clubs"
 }
