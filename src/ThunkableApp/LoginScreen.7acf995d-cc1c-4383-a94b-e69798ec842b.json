@@ -1159,15 +1159,13 @@
                             "position": "absolute",
                             "left": "27.653336588541666%",
                             "top": "21.036356821589205%",
-                            "display": "flex",
-                            "backgroundColor": "rgba(0, 0, 0, 0)"
+                            "display": "flex"
                         },
                         "capInsets": {},
                         "ParentId": "7acf995d-cc1c-4383-a94b-e69798ec842b",
                         "position": "absolute",
                         "edgeOffsets": 13,
-                        "Picture": "image.png",
-                        "BackgroundColor": "rgba(0, 0, 0, 0)"
+                        "Picture": "logo-seeThru.png.png"
                     },
                     "children": [],
                     "id": "2132c10c-2dd0-46db-820d-68017c3a3adc",
