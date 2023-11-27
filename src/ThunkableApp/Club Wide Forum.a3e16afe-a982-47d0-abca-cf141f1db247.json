@@ -1,5 +1,4 @@
 {
-    "id": "3e25648c-8eec-4200-a925-c36f962bbd4b",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -55,6 +54,7 @@
         "tabNavigationOptions": {}
     },
     "children": [],
-    "thunkableVersion": 430,
-    "name": "Settings for Club"
+    "id": "a3e16afe-a982-47d0-abca-cf141f1db247",
+    "thunkableVersion": 432,
+    "name": "Club Wide Forum"
 }
