@@ -1,4 +1,5 @@
 {
+    "id": "60e23856-f18a-4b04-9503-094733af3049",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -54,7 +55,6 @@
         "tabNavigationOptions": {}
     },
     "children": [],
-    "id": "60e23856-f18a-4b04-9503-094733af3049",
     "thunkableVersion": 432,
     "name": "List of Members"
 }

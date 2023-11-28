@@ -333,7 +333,27 @@
                         "iap": false
                     }
                 },
-                "652eae0d27389b5027a4dc15": {}
+                "652eae0d27389b5027a4dc15": {},
+                "3ef1b2a4-8de7-4892-a709-0c4cb9ecb348": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "a3e16afe-a982-47d0-abca-cf141f1db247": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
             },
             "categories": [
                 "Education"
