@@ -542,6 +542,11 @@
                     "name": "NextClubID",
                     "screenId": "d9f6d76b-bb3d-4e92-aaf0-6074b4c01e44"
                 },
+                "7762193f-a590-47c1-bcd6-9f33d6441bdc": {
+                    "scope": "APP",
+                    "name": "clubCounter",
+                    "screenId": "449b2711-ba7e-4eed-b907-8c6a25975540"
+                },
                 "215413df-4580-4328-b4ee-b610d96cd005": {
                     "scope": "APP",
                     "name": "clubID",
