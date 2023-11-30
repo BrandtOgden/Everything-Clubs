@@ -38,9 +38,8 @@
                     "externalName": "users/64ef64f6d0c464b2701fb8ce/projects/65355e8a67011bc7d34753a5/assets/653565adb9c6f07093b31844",
                     "createdAt": "2023-10-22T18:10:53.997Z",
                     "updatedAt": "2023-10-22T18:10:53.997Z",
-                    "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/65355e8a67011bc7d34753a5/assets/653565adb9c6f07093b31844?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4adbf4623f0592697176196df89c91a144e4ee3422239e51b818c7ad2ae7ba8c4fe23f21747b3b3e1984a537a6bd2a1d22073dda7f68572c7dba34786cd149c7e7f162f5d235da3e0dc9a5c85531fb4d616f030398754266d60dd21ab7fbb36f029802b494185f5d5fcebe2137d1be00497cc9a61318122f2d916c220a58f013a9f43c7bc75fdfe8e8ae901365f34eda7f89974a3f1e452a0031f82bf3bc741682580a7dab77b0f2171aa54ed475c2d174dc6fa8179107e7e9bfa8942363b7b5f5367ef6bc568c04252c7fcd3c68a2a572206d749f42926b96468116a7a5aebc4c5d3ed3abdb5c4148ed1c8ca51c0461ff75527201477a19917ac84774b2de32",
-                    "signedUrlExpirationTime": 1701373176483
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/65355e8a67011bc7d34753a5/assets/653565adb9c6f07093b31844?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224737Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=26cbf78f43d521147013cfcb182ab4774895c052ddef482c24e186f31d02714fa25385c97475296f3b45efed6af8e20ad53fe868bf4fac694af550df504cb32d67f43e0459accc027ed54c9a403cdc1c39544ddaf8de8aefe59b04208986408a97144dc94115d5428264afdbca03333327cc1985d093396577ded092ad8c43fd1924eef837717786c9f64bf627d7ee3c34ba3c2a49b24b8161d7122759bf58398773d7fb0d4eb6967aba9a46f5af401c417163f8fa3d0a6c52696fa36a5def4c5c42cb6148d1ee28a46386945cdd9b06b435ea7ad62a95e827a7fd03498a8fe63905fc42541e0934818c3931486c889ddaf5d9867bc2c4e7f3d216bf07b316f0",
+                    "signedUrlExpirationTime": 1701470857994
                 },
                 "65356792d0ee6adf05b22932": {
                     "externalStorageType": "GCS",
@@ -54,9 +53,8 @@
                     "externalName": "users/64ef64f6d0c464b2701fb8ce/projects/65355e8a67011bc7d34753a5/assets/65356792d0ee6adf05b22932",
                     "createdAt": "2023-10-22T18:18:58.407Z",
                     "updatedAt": "2023-10-22T18:18:58.407Z",
-                    "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/65355e8a67011bc7d34753a5/assets/65356792d0ee6adf05b22932?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2cacef1a6a78be0d16e1971da93a9529fca5e09734091348bf4f24ebd980430ba5bae5339a3259633db36421523911bf41396d62ff64ed657e15a439b14da4204bf9db781dadc513633f9a51a049bc34b8563e836295996f6d827bbbebfb704eaf930bf21189affd3ee73eceb876f3ad8f0593608079b70982a401010966b1c6d668f60b4204596511342f1da6ccd2a247b11c3ec131b274b343b8bc753118e16aa360878bf2b415a7c4fa8bf9d835a46a8aaf4f15e35acc89c53d7f9fd1824db504b546870e6ca80936351d5a2ab8a8e283d42f4d10067d68911fc45a499f51e2c23548667943cf17ee36f23486e12ca1b3f2e2f599321b8ea7c5876aa90ffd",
-                    "signedUrlExpirationTime": 1701373176485
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/65355e8a67011bc7d34753a5/assets/65356792d0ee6adf05b22932?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224737Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b52eb9c8354863b336fececc9adb4954eca6c35d2723e4b241261e8def4c8dde363640c301141ce17918bc1be3c625198ff10458c69935f43a4eab394905cb43be173455b2605a35b78d2bdd05378cb770db8327a262fccbeb8fc2035dfeb4471b7baa7764922ef06119b8be85c6e90bd1ffc483d13ef5193099a6a4d5ef8fba056e24e31ef48b9e3e2a06d98e965ac715535bfa0e857567eee548d985f5b0ea957bb775c0bbf11f987e518a830656b83f60b5790a3093fc1d6b3f442899d439c797f2e9eb68e8e9510a526d94f0880623626e0250c22ecc3007b3ad88d825e056a8f42950559ca924c598d3f55dd52f34af602cf9ed2e13b370ca1c8c0af1ca",
+                    "signedUrlExpirationTime": 1701470857996
                 },
                 "65356a0467011b1bd047829c": {
                     "externalStorageType": "GCS",
@@ -70,9 +68,8 @@
                     "externalName": "users/64ef64f6d0c464b2701fb8ce/projects/65355e8a67011bc7d34753a5/assets/65356a0467011b1bd047829c",
                     "createdAt": "2023-10-22T18:29:25.233Z",
                     "updatedAt": "2023-10-22T18:29:25.233Z",
-                    "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/65355e8a67011bc7d34753a5/assets/65356a0467011b1bd047829c?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=90b7607c2d391c01cef9668de3fde3a855046266f0152cdc28fd7f95cc38fecaca407fc30f5773e310b6b2a658a6c0e68d841011882d13d9c4c2a5384ab1ba71b79d929a6eaac858d6b24541034f87710a997761d7d35182e1f85e5ce5621cd8bbb972d208cdb7e145aababe26967adb7d86ddb5239a25cc571713d76d2ad8929ef2ba33055908454f01393ca9eb611eeda2c9bfe0bcbadf0f52b0fc8e710070a4a505659560b2b78bf80357b3b9aeaf64619dbd4664ef6edac16bf44bfc56a24dd9c60e28b3b31e8a1d271e0ed9337a894b577f2d7dcc080c6e6411282856e6bf5f48ef67aa788d8578c078991237a9d6e7094190c1e2290cc1bc97d83a2543",
-                    "signedUrlExpirationTime": 1701373176486
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/65355e8a67011bc7d34753a5/assets/65356a0467011b1bd047829c?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224737Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7b6c48834e98884539cca21383c55ba57cf1170953e41f12f17533565c5e13c5d2940490790fa1dc323e73f800d5ea8422780c52bad908ff84054db2a39e9152b402e966423c0845eb27c1d6ef4ea13f64c41fe673189f49c94b341025080d63e0baa7fd0b19a54f343a8c0fdb446f8e5978b76f504938d341a25efc0f6e34121982dec725ff8d2d698dc221b66d2d7713d645c316fd62520c53bfdc13fe6669124b037e4a585fadd1af2b7d58cb6e7dbf2c0b2faec326e902b47f9a61a5cd460b23bf63344bb6d53e114d96c6d5b47b4d85b7da90645fcb6d15d0d94f207b6490c44ef64ca93263eb8cd696671d236a1f81068364c83e40782292f5bfe5bb1c",
+                    "signedUrlExpirationTime": 1701470857998
                 },
                 "65370b2187d947ea178b67b6": {
                     "externalStorageType": "GCS",
@@ -86,9 +83,8 @@
                     "externalName": "users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65370b2187d947ea178b67b6",
                     "createdAt": "2023-10-24T00:09:05.432Z",
                     "updatedAt": "2023-10-24T00:09:05.432Z",
-                    "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65370b2187d947ea178b67b6?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a6bb2ca2882142a0108d9164e6a6720be1603efa62e15957d664b282509cd947f58feddbb08f46858205896dc58ee05bbcb1955e634d4f7e907e9b4d573b10020b4ebf30e8e47f68c092f2eb4e2ac2de9b24ca2778918c5bf87c7e0520f75acd9b07d01626d2711832d830ebf9748c91b9f0984c6da565487f1e73a394eb1e3e6c5c46824045f6b7b8d38c9a0bc4c0f7b4d075bbb8895fbf3cc47a8dd28323ab9afc45c374e18d02f0b2a298278b24ff4b80c3a4a985420ae58cb1de146bd20097ecca984311515a95e04e28e94d073a7769024cffd6bb5e446459f4c2bd484298fddb57fd7045e08ec4ea0de2704c68d94c6ec31a8228218f0adc3c3a90c2a4",
-                    "signedUrlExpirationTime": 1701373176488
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65370b2187d947ea178b67b6?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224738Z&X-Goog-Expires=172799&X-Goog-SignedHeaders=host&X-Goog-Signature=bcad24ce7a80a0a4c28adf83c3f8537d549a332331698cd2f02fd2d31be57befda6d6b14cd2180a8cd74c1b94bd78e69049f639c86772c7522e1f7d3b198361e919d8a114fc489df299ba7979724a96c58127235ca6f62a976aad656480749ecd120d75a446e5ab757d48985ff273bbc5657ad70b5d2b30361e43d603d4ddd2963aeff1bb1ae203b16c554cc634a180bde34a04c69b74a7f766fdf75f6a853a75a74ca54dbeaf1553df30a520986cdf6c36c76f88afaa3a7a9e275f66bd731d155dae8ef524e2f03c4582720d6ba8ffff3560aa20a4bfaddb2684659ab380c10635f7c6e221a436858baebd7b5993a76658545c6f5fa3ca28b2210770eaa0802",
+                    "signedUrlExpirationTime": 1701470857999
                 },
                 "65370bbd497f1e0f2675a95c": {
                     "externalStorageType": "GCS",
@@ -102,9 +98,8 @@
                     "externalName": "users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65370bbd497f1e0f2675a95c",
                     "createdAt": "2023-10-24T00:11:41.611Z",
                     "updatedAt": "2023-10-24T00:11:41.611Z",
-                    "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65370bbd497f1e0f2675a95c?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=60abd6d89e0d793d02a0b0aa90bf4ca65b48ad2c6c2d67e23fb58f51ea5cadf981db98f42c4c50f7ac0805640963f4d28239ff761f6037e0f67eabc395d5e0a95df957ecefe527d37295db4d5514a8de860db34bd6259911cc9cf74ff569f1393fd25e852affb03b090cacb6ee375a1a83018c431f6d69a2aada37dd12ea01cce10485ab4f0e62e1dc4f6a7357869a86eb00618ef66b3f6ccc1b9d959f41543713c81c8bd10668adba766a11b20bbb81ba4bd3b5e34a5d5c06f38568cf9fa2060f3db3693ac5fa485f6d80343257a4548dd05b9a32143f4afac306597348e543f23fdb604a6c1b9a819c552a10e356d5c00d236f9bc50574cf74d5070cd6036d",
-                    "signedUrlExpirationTime": 1701373176489
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65370bbd497f1e0f2675a95c?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224738Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7eb43da18b88bc05f22b872419fef3ee594fde43ef4b2d02cecf24490b8645f7bc812784302e11d59886b350cc6dff52d4e6f265c46a7675685d20ecf7a551aa49040623b74031eb04e3b9c9ff03e09b74bbb38a1df1d22d1074f7c2dfc64871e1e52f5d7770842e35e522c46bf4ea2984110ca3a8395a45d43afb71aab1cc75a757b8699fdbd7c1e510e007502fe0f70d7db387880d827984e80e6bfb8f04c0f09ffba3e7ff846932e20be90a904a3528cb9c67de90f63d7a3ee29c638dfcade6ac0b1121a93294067c4eedca21fecd549567dd927dcb2de811e597cc8650ad1ca0cc9dd7da0efb7ce4181f7302126fbb6b46c9283c0b330c7df11baf18ea56",
+                    "signedUrlExpirationTime": 1701470858001
                 },
                 "65371547504d5481a6eaa35e": {
                     "externalStorageType": "GCS",
@@ -118,9 +113,8 @@
                     "externalName": "users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65371547504d5481a6eaa35e",
                     "createdAt": "2023-10-24T00:52:23.537Z",
                     "updatedAt": "2023-10-24T00:52:23.537Z",
-                    "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65371547504d5481a6eaa35e?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1c2026ee63314665850927447c5771cf39013169f36a537d72931fcdbf9ea0913fecb7ce1e003b57a74f8b07cc339d93be16d109143459d9cfb375f606ae1ed35a6b5c880e323e40ba084af335bcdc8a9ae922402830d769d343714b61f0139fdd49879251e558f306a5f95151d0571ca379c321cb10ce247b7710c8ebda4566972843ce0f52f173981fab74b273d37c6cddb62673190a6404a7ad6c4575ba6f1c80083dc4b89653f6eb6f507a5609023d0731213177c36e7dea579058b04a6a9422c855267694fcab677a384be445db7c00e555a22b43851f925171c68aa857a96e455799936d3e58031a69e24673d3cf7cbbc4842b69823932bf7a58534f0e",
-                    "signedUrlExpirationTime": 1701373176491
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65371547504d5481a6eaa35e?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224738Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b8d1775694670ac9161619f6ae7f132ce74ad59bb04b2ab6b8148eb44e88c7a0f395747793f5373d983dcc1a70a95f74d37e766f1c459e8617216bcb583d080f94ab7106fb77ba5980bf93d8dcfbf9a02ef02c2f66ff437c659ca96c22b8bed49c49fd956c3d14d6b0f1d53858f1c302e4b0c7381721f5b7ba7360321ebe8b8496a2ff3d0939271d4963c7636cdf72a7dd7dc77f2c5cb9357f48faee5677cbb6d9b6e1768e6836341803c086615a78a5eb57d85f78ea7a820e5ac9d63d34e4c23a0bf2e7613305ab12125178814d06a92a26f981c8ee196edc0a037da0ba7ab080414e3712f8db3f96992b5ce039ae6041e1db9812bb983b89e797dfe9ca95ef",
+                    "signedUrlExpirationTime": 1701470858003
                 },
                 "653717aa497f1e5c2675ec2a": {
                     "externalStorageType": "GCS",
@@ -134,9 +128,8 @@
                     "externalName": "users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/653717aa497f1e5c2675ec2a",
                     "createdAt": "2023-10-24T01:02:34.958Z",
                     "updatedAt": "2023-10-24T01:02:34.958Z",
-                    "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/653717aa497f1e5c2675ec2a?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1aa90f8f15f21193446c1eb340cb8aeee020dafab5366f73445ceba2fdc07b627270e87caf4b0f927b29f791ce6e2d6ec7f55c913d9b3e74a03f48b52ea97fa53dc4928c76dc89e47bbe1c454820394e57b7420a82bf3b6ecbeb30d1356abe09e79a4bd913c44428ca23db105c8772d414dff89b596b9578c78aa2035e552f7fefc68705304f1810e355bfa4cd014293bea8597bcaff2350074e0654c2cb21b6a8b5ba1f1af7db87c14296665fd8a4399f1ba200c75d980156ea5496e8127314927aaf0acf5713ee6449c8619da6b2e8c92976304f16be900187f034620076f75379a5255e440f1e2ea3f217bab249d06be5223e8c4110e9cd8d6bf363144493",
-                    "signedUrlExpirationTime": 1701373176492
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/653717aa497f1e5c2675ec2a?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224738Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=83f28ffe4ee365641fa0d623842968473a18e49fdb575002af02c44fa46eb9e0967a46fccd204b11e1e02d39894c6fd3e76f2eef46317c16cb86065e7738402bb419153fd715b7b268d44763f892633c60a62679dd1350d3fef511668f60047d85acf28e6f22885fc4beaee5cee78707547e1dc95346b3720787323fa1e132b1d78cd4200f0e3391d899aa6dbe3f273c9b1cfec875e7d6387650f5dbaa9299af82348c03087b00a6e23d6d6396f17d44d0f24176d4bcb9e957a88a660c4fae4c9bf95e85392d9c280f5168b82c97f0616d6b9888cebcb87669f826a8f5699bac2bdbcb51b850b7f322789570b9102caa31ba1b25f311d130c0c5f359adee8a10",
+                    "signedUrlExpirationTime": 1701470858004
                 },
                 "653717dc497f1ed54b75ec3c": {
                     "externalStorageType": "GCS",
@@ -151,8 +144,8 @@
                     "createdAt": "2023-10-24T01:03:24.502Z",
                     "updatedAt": "2023-10-24T01:03:24.502Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/653717dc497f1ed54b75ec3c?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=37d9312c0315c5e778a0fcb040f793a9727a2225279393dc9346f25c852286e57a79ebb3f2342efb8aefa070ab6e08beac1f919935b2c14260a7223773d81a8fa4466a626f6e4e8db79284c6cf079e9012283a654e4a8c11985d7900924e581e49d7c53cccb59a8f0f6c672dd9cf6637415df53a47a61ab40de7ecaef17506a7266be15e5f99156daff3777c1a6f5da6041964d17ef56e32e47ea87f0a01b18b1e7a3692daf491716c8e55a9ab00a3fa0086f27da99f9c3d26e448fd97365df715add32710afe0675f008bff39e4375cedb8df340f6758b39c9393e33bddc29297db2d9d2a9172c1fe8d7b4cad3cf8cffd1cf59b038f508d41f024ff65010330",
-                    "signedUrlExpirationTime": 1701373176494
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/653717dc497f1ed54b75ec3c?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224738Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=52456399643bee7158e2edfaa77b54116d8da929dfda0a5400bfdde99f67faf928beb4ebe338938afc89edda28f0e8d553ef359edf295db7bb5a4afe7935a250271d2ccd0e3a3e29f38e3c4aeeb45ca5829eb0dcab44092d38e16f1c195494dd3e95fdff61b80215eb90d8ca9a28c140ba7a610bc1db8d7dc1381ce2589ab8995a1ceb816e063af3651762c1a0b222a5961b696b8677490d19ed63ca42a950262a20338d5dec4f0d052f63a05eb5c2a7a34737374546afe61c61bceb3d79640a76ed4542b675b95ba5d3fb3392cea0bdc8784eb97c9cf8dca53430281326dc99c3a7e769ef1ce6ad5fedb7dfdeb4d89a981b2e2d51221beff38b8c6664ab628f",
+                    "signedUrlExpirationTime": 1701470858006
                 },
                 "65371a13c08e5d98f512fb42": {
                     "externalStorageType": "GCS",
@@ -167,8 +160,8 @@
                     "createdAt": "2023-10-24T01:12:51.250Z",
                     "updatedAt": "2023-10-24T01:12:51.250Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65371a13c08e5d98f512fb42?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=af0bb2632fd6b30c0caab8df728cfe2485a304bf87d2aca436a8254d0b0c0bab0358a9ea990709f6d35c4864c43d8e436b25f8bd2d5bdb764ba98ff488ddb51a45e472c8f5d88af7490a1a90009a7b039fcbf4792f40176d120a9643abe6d7b0e3b7b8ed52385d81d2668337458b384bc3a1995a8301ab8140f815f9d04464021d66f70872b8123bcd6865b0998132c64c2c24e219ada1e4a039fe4231975988bbe7522ee463980695c6fd82dedd585266cdc6d9f8699127d3955897b270de415e7504dfc85fc7577f214cb753d0803f328a280caf1fad4084f081e036f801ac2101632ba52680f1407ee2662d2ff9aff3081317117ef4c13c92add2b6bfad35",
-                    "signedUrlExpirationTime": 1701373176495
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/65368fa4cf2b6e2783763328/assets/65371a13c08e5d98f512fb42?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224738Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=95e79facffffe35ad8d0651b2c9b9c70ac05bf82701976a839f7a7e04e63704998f877e8068438082f1620f12d1d6d3dffc1d22bfd0efe34db63e8c63886fc733d3796be91dcd697046819091d5b87e07699de54e07ffbc7bfda18cc71d5df47fb997b25675cebd51476d94bbe31b1b861f4ef88fb2b237e50080c9e0728856fbaf676a6c5e2700e18d9a4aa03a1f6cc56ae773a1693b6af685dea7420d19bbdf872f2e3daf4ca2b1245ba24af602e85016726d338d74849ce473b6d073da7344d268da21cb99d4050b908f630825ee0f87ce29834d0b0287b3972e6bd3d6f517599fe1ac5ada0cc50be1e48023ffd7ef9802ad8ef642a062a990ddba49fde63",
+                    "signedUrlExpirationTime": 1701470858007
                 },
                 "6553cef0f4aa8b7a23c49d40": {
                     "externalStorageType": "GCS",
@@ -183,8 +176,8 @@
                     "createdAt": "2023-11-14T19:48:00.447Z",
                     "updatedAt": "2023-11-14T19:48:00.447Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e54e50fc04f2fcb1c4c1/projects/652eae0d27389b5027a4dc15/assets/6553cef0f4aa8b7a23c49d40?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=687f804fd1f6472b2ce4c2608b84144b501c9078819e51f2676bda5635186bb7ee37cc7769ca8d23091d1e6ab505400f5e33c1044c5856c3ebdd16fb0620d708472985c7d7ac550665a6bcfa9f1fddb391a8fff275128bee14a977a50d1cb0f1772083848f9fabb071ad5a5f9265a080d394af790c51b6a70d80aa4b62201ba547a4e26bec6e9e28af4a801418f0bc12c516aa1982db4d6847b0133863b100e38b8611dec917364032919b9c191c6062b0defe664af936de95450c495428e7e4f3c22dbdef3a38a9dfea900b76de31f75f63bdd3b20104208f7eb05ceee19391d33077e06ac16f016c45464695583610f2b57f1f0fcae5a3263ebdd69dafc436",
-                    "signedUrlExpirationTime": 1701373176497
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e54e50fc04f2fcb1c4c1/projects/652eae0d27389b5027a4dc15/assets/6553cef0f4aa8b7a23c49d40?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224738Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b06142d6b0eff2038cfb892566002ff91d29aa55fc81a2b7f1ea1ec0f6fbf84af5bd362f26bb0ca0dbfe76ca14006e31df6c29fea0c477b96498a8437b0971e6f6832957ceb8262ea55c295e7df0204660c951317e2d1dbac765c744a5dcfdefbb30c4bf9a1ad075a419956997b035620e34255f5aea7e366d7af7668896fce5ba7635e79714ef982bb30d43ecf77e4cce0d82e722e04d2f453cfe6e1048efa17b9f84325c09933fbff3ce51b8998b449ae85ea2e9966b03b0e9a5226752f787480739c04bca605b9bedae83226098cee3e8cc68f6e0f0a3470c52c6863f6585324bfad0cc7f69b60ba448195ca643b4316c0b3cb0277a68837cbe917d6ba9dc",
+                    "signedUrlExpirationTime": 1701470858009
                 },
                 "655aaecb1eb404e2d018d854": {
                     "externalStorageType": "GCS",
@@ -199,8 +192,8 @@
                     "createdAt": "2023-11-20T00:56:46.058Z",
                     "updatedAt": "2023-11-20T00:56:46.058Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/653ff50de4d684429e8b125c/assets/655aaecb1eb404e2d018d854?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=46368fd0b006761e23452a316bcfb7581d1c113ff523381efa3b7848f8bce07ba59d8f000c6dc7959a1b7b52bb7fe066b5c123ad49a80a497e48a63e5063028af70c80e3463db14741a52d97a8359f3d61a144c72ae085ad48c51c48b8faf05d68c0ca79746d10e46fd27ba3a30c75469ba1cb8cacd034c7b2373d40775b6f40209ddef22efef99947f151450847c93dd369e7a50d9d89885e6b3f473fcbacb0dca03e8b23fe1bb4a8fbf7dcd5840fd9f3043c504df3f3648e296b68797afe15117f4c20a8abc05b959a75a7c09b512bf89df2c9f9bfd78d14bb228e91a1405d20ade95178d22bae566b20206ca7c6f85a80664467634f1e54fd14447a2f21fe",
-                    "signedUrlExpirationTime": 1701373176498
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/653ff50de4d684429e8b125c/assets/655aaecb1eb404e2d018d854?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224738Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=196f0c11138206c82cd6eaad357fa619882815b2d53050fd9888f678a96674e1753577595a009ecf67fcc89e30f6796a7d90915d6f869d1eff1b6d0ecc5b4abac398754a50fea96a13394a20ff26a69583363219340d3e27a8eaca8e814d4af469c507fd9a15295bfc8fcaf8ccb9da81c9fd5c46ba222bdb2fa03e01dccf59c2ad3ea613aa3d0b6289eee869480eb92b2786689fdd8eebd7083ac28c72deb84592deb7b336ef00a875da1aade7a8c863f65ccf5d470c98f8cedccefc28168fa20a5c1acba40283b9aa3a756ac29a81bdef27e0aad908a4f6684d5597df5833bc6985edf83cc618ca8fe0d225500c766a9f1b9c872855068d411ceb881f497ce7",
+                    "signedUrlExpirationTime": 1701470858010
                 },
                 "655aaf221eb404e2d019008b": {
                     "externalStorageType": "GCS",
@@ -215,8 +208,8 @@
                     "createdAt": "2023-11-20T00:58:10.308Z",
                     "updatedAt": "2023-11-20T00:58:10.308Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/653ff50de4d684429e8b125c/assets/655aaf221eb404e2d019008b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6cb7feabf1205343e5982d51e1eb9a50d78d5047a9696db15a8e4ff09781d2a3f89ed1b590a2b27bcf22446c20f007fd6d00bbc31987dec5222ceee723e5f06ce21f34c9d9ae1f6ac8822e142e17a742042e827fe84453eceb1417303d18df55f63656860d2ca6961cd91d92a8c5a5aacdc076d65f78cd76ebd2c3c3005ea6d4fa28a5bf8f56d8a753b1200e8802c6ebda409e30ac7d32ce1608ce966d494250d3725faa7384019b7fdf9802fb8d68c59c3ca7a4bddb6ab316d28029b33081f0b3b4312b4b221d3236581f182d03929ebc3436ab52f1bd40754be014533e5675ec674133fef4f46fb4617cebeda0edf7df79c801ec23a6bc38b42a7853579ddb",
-                    "signedUrlExpirationTime": 1701373176499
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/653ff50de4d684429e8b125c/assets/655aaf221eb404e2d019008b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224738Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=ba544f0de51a466dc62f47061edbbc2ce60a97f9315083ed034ca55a185398731552fef48f36891046ab3689323de12dc7dc326afe152ff9ba7cc5b91e510960ed72a411b6b92b8544a5cc7bc1d1a7f61ea23fef94ea3aba56459986a66f9b9c1175cf091d037495878f27fe81c40c608bad63f26cb37ae6b17395f80d3a92e8f76b6d12b3fa7793c54a6b7723831828d6126acbf4039460c412db6d78fdbf21a67def0b112709103822f365d85e9c17601447c5f5e5dc8d24562e4b5dcca568afd8a6d565983f92d53a917a826b966fe62b95dfc822621cf6923f354c3a2b1cb665240ea3acefee9b5badcb81bdfe7c0c833908081b761147be9861fa127e58",
+                    "signedUrlExpirationTime": 1701470858012
                 },
                 "655abc4ae62844115a3daaa2": {
                     "externalStorageType": "GCS",
@@ -231,8 +224,8 @@
                     "createdAt": "2023-11-20T01:54:18.705Z",
                     "updatedAt": "2023-11-20T01:54:18.705Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/653ff50de4d684429e8b125c/assets/655abc4ae62844115a3daaa2?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=751799d9a67c306ec36d68752d1574a7f13c0a109a0c10be3f50b269f3738807233266ee5d02995bb4ff5bec7896d80d1bb9282f3fe6a3ad977940493c7b03247583f0234d9711060c6af280f206227b9a4673ab0b6b96e9cdcc812dd7a10854b636bc7e95747f705614c31079de0cdacbfa9df506600e08a7aa94c3177f404041c349e25dd128bd3a7017581a748c714f4cbc92735800c89ddf334c3e5c44ee47f77c3a5d2bcd07213de272fd88e1bef2dcf8de4bdab2f78da499ef9d7d5942c0855e90859c93f63aaa1d45446ddc5cd5cc090c24bbadb4879e6db20b5a16c7cfc82cd54e48347904a2b1b5a344749d31679e3ba42724f45f2d0e23f887b043",
-                    "signedUrlExpirationTime": 1701373176501
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ef64f6d0c464b2701fb8ce/projects/653ff50de4d684429e8b125c/assets/655abc4ae62844115a3daaa2?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224738Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=30a3c975f3b53f320d5a13e0053dc55e9b1ed5cfffb2550d8611b66e8adac1a1304b151703ddc828e7bdfcb952561000285324336f9f28b61fe0f65e1aa879302e3d61a2489e7f6edf5226d007b2cb253896a2c47578f989d7013074103271c057a3e0184b3771bf89f2c022f9b2dff9508450999a5d4d4488ca289ead8189124c58a052eac6807dd981fc1e06f483c4b20275467b66fa644246bca96ee7fed22c731ebda3f8db5488f9dc49a45db25f0607659d63648d0fb5ed5e2a1d4972a78c5c8bcd561e3c1657207bf48545f8c21ceda744025ba51f8ef60197d430c77e7985ab5832908797e17497285253b8af45ad0584c8cf01394987c76acd550081",
+                    "signedUrlExpirationTime": 1701470858013
                 },
                 "655b76e5585ae39272a70550": {
                     "externalStorageType": "GCS",
@@ -247,8 +240,8 @@
                     "createdAt": "2023-11-20T15:10:29.992Z",
                     "updatedAt": "2023-11-20T15:10:29.992Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/654a676574861008d6657ff2/assets/655b76e5585ae39272a70550?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T193936Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7487fbdea7afec6402e9eb229dddf02611666939eb93d2b303bf44e8e02060d1b3807dc61f1f8c7ba907f059271f1d977f0263b904e4bd2b962080509a0fdeeca1a95fd8f1fd40ea10b266bad0934d4fe2f052c2a72b14d3cb813eedcc794a42f833982634152ab7e9e7b50810fbe51d22de6a34452d1d9fb582bfd46ecb21914d4be43e7dee0dc11683d441906ec3feb05cbfdc1fc41657885d3fe9defad16917c48e969191551213dc8a66b284dad8a8766e69bfb51bbc0b8b83d837a5f68fcdccbc501cb868831d5aae56cb923a22ba4cf0e8dfb9054202ee6f04c4728ee6543e6a2d281c958afedfaf17010a7d23573d80f8bd0fcb609c29653fa0da019f",
-                    "signedUrlExpirationTime": 1701373176502
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64fe6a088dd71e68d059f8e9/projects/654a676574861008d6657ff2/assets/655b76e5585ae39272a70550?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231129%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231129T224738Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=160d6aab82fa355ceb5084daf95a66e936037a2e6a53316d45c035f876d5ba780c7fc086c0ae84bc40b4723c09af697164c140ece4b7fe3236fe101cdad66178e991cf31cbaad1cec682239aa7a36538214cb1811be6c9873b380319439673708b4ad4581000ea6039c315528ec156b51c25d842eb615d79a6c802baeb5be7e9ca35f8f3d5030f32354dff103d73ab7a37280ffc81def0fa78d100db2a150a625c885f584fefbbfdb459f6c4b149e15b6e2d33f489b75eb924f6cf49444a1f915b2f28e3b981494930c3b7c1a8673198f0c83d01e732d0a689c375622392b600d6bcba1feb266547279da189dee959d9618f0ef52ff6256e6684657aa3aa6c49",
+                    "signedUrlExpirationTime": 1701470858015
                 }
             },
             "backendUpgradeVersion": 23,
@@ -313,16 +306,6 @@
                         "iap": false
                     }
                 },
-                "fd1ebf5c-e2f6-4d3e-9dc8-a5f1a5d32345": {
-                    "xml": "",
-                    "permissions": {
-                        "android": [],
-                        "ios": []
-                    },
-                    "enabledFeatures": {
-                        "iap": false
-                    }
-                },
                 "60e23856-f18a-4b04-9503-094733af3049": {
                     "xml": "",
                     "permissions": {
@@ -362,9 +345,6 @@
                 "children": [
                     {
                         "id": "7acf995d-cc1c-4383-a94b-e69798ec842b"
-                    },
-                    {
-                        "id": "fd1ebf5c-e2f6-4d3e-9dc8-a5f1a5d32345"
                     },
                     {
                         "id": "a50d052a-1777-487d-a981-593235ad14dc"
@@ -542,6 +522,11 @@
                     "name": "NextClubID",
                     "screenId": "d9f6d76b-bb3d-4e92-aaf0-6074b4c01e44"
                 },
+                "7762193f-a590-47c1-bcd6-9f33d6441bdc": {
+                    "scope": "APP",
+                    "name": "clubCounter",
+                    "screenId": "449b2711-ba7e-4eed-b907-8c6a25975540"
+                },
                 "215413df-4580-4328-b4ee-b610d96cd005": {
                     "scope": "APP",
                     "name": "clubID",
@@ -556,11 +541,6 @@
                     "scope": "APP",
                     "name": "settings switch",
                     "screenId": "02058638-1e20-4c7e-9d63-830d233c8dcc"
-                },
-                "6569cbda-2075-43cf-a979-c508d1d91c28": {
-                    "scope": "APP",
-                    "name": "PF_isEditing",
-                    "screenId": "fd1ebf5c-e2f6-4d3e-9dc8-a5f1a5d32345"
                 }
             },
             "defaultDesignerDevice": "PHONE",
