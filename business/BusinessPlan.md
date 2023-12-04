@@ -9,4 +9,5 @@ for the viability of a business. More information on the lean canvas business mo
 
 # Our Lean Canvas Business Model
 
-![Lean Canvas Business Model](https://github.com/BrandtOgden/CSC305Team225/blob/main/src/LeanCanvas.png)
+![Lean Canvas Business Model](https://github.com/BrandtOgden/CSC305Team225/blob/main/src/LeanCanvasFINAL.png)
+                              
