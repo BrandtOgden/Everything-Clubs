@@ -209,7 +209,7 @@
                     "type": "TextInput",
                     "translatedName": "Text Input",
                     "properties": {
-                        "Hint": "Email",
+                        "Hint": "TESTING",
                         "Height": 40,
                         "Width": 275,
                         "Visible": true,
@@ -262,7 +262,7 @@
                         "ParentId": "7acf995d-cc1c-4383-a94b-e69798ec842b",
                         "position": "absolute",
                         "edgeOffsets": 264,
-                        "placeholder": "Email"
+                        "placeholder": "TESTING"
                     },
                     "children": [],
                     "id": "5c65a71f-5edc-48a0-ae38-a804d6e8b1d9",
