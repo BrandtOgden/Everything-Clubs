@@ -1,5 +1,4 @@
 {
-    "id": "a3e16afe-a982-47d0-abca-cf141f1db247",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -7,6 +6,7 @@
         "Height": "Fill container",
         "Width": "Fill container",
         "Layout": "column",
+        "BackgroundColor": "rgba(80, 75, 58, 1)",
         "Justification": "center",
         "Alignment": "center",
         "Visible": true,
@@ -53,8 +53,7 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {},
-        "BackgroundColor": "rgba(80, 75, 58, 1)"
+        "tabNavigationOptions": {}
     },
     "children": [
         {
@@ -62,7 +61,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Club Wide Forum",
+                "Text": "Executive Forum",
                 "FontSize": 28,
                 "CustomFont": "",
                 "LineHeight": 1,
@@ -119,12 +118,12 @@
                 "ParentId": "a3e16afe-a982-47d0-abca-cf141f1db247",
                 "position": "absolute",
                 "edgeOffsets": 16,
-                "children": "Club Wide Forum"
+                "children": "Executive Forum"
             },
             "children": [],
-            "id": "0f97bb33-8edc-4a72-bc10-a87634b7a64f",
+            "id": "3a711ae7-cfa8-4dd9-a5e8-5150b1da28ba",
             "thunkableVersion": 433,
-            "name": "Header"
+            "name": "Header1"
         },
         {
             "type": "Button",
@@ -175,10 +174,10 @@
                 "edgeOffsets": 593
             },
             "children": [],
-            "id": "80b0810c-a5e3-49e8-89ff-a2944e1e2090",
+            "id": "8dbc856a-725f-455d-8a45-0bf6f04dbec2",
             "thunkableVersion": 434,
             "bindings": null,
-            "name": "Back"
+            "name": "Executive Back"
         },
         {
             "type": "Button",
@@ -229,9 +228,9 @@
                 "edgeOffsets": 531
             },
             "children": [],
-            "id": "858aa266-e36f-401c-a62e-55b3125650d5",
+            "id": "09893e99-55e9-4bda-bb9b-c9d5e504eed5",
             "thunkableVersion": 433,
-            "name": "Send"
+            "name": "Executive Send"
         },
         {
             "type": "TextInput",
@@ -294,9 +293,9 @@
                 "placeholder": "Type here"
             },
             "children": [],
-            "id": "c37031d6-abfe-4da8-979d-7ce5c237b53f",
+            "id": "a625b616-dd82-431f-8c92-4a564cdd440e",
             "thunkableVersion": 433,
-            "name": "Message"
+            "name": "Executive Message"
         },
         {
             "type": "List Viewer",
@@ -347,11 +346,13 @@
                 "edgeOffsets": 71
             },
             "children": [],
-            "id": "0bbaa61e-b2a8-49a9-9275-402666ccf68a",
+            "id": "c83acaea-370f-47d0-bd2c-b16b02cb281e",
             "thunkableVersion": 433,
-            "name": "Message List"
+            "name": "Executive Message List"
         }
     ],
-    "thunkableVersion": 432,
-    "name": "Club Wide Forum"
+    "id": "bdf9a070-6f76-4627-82d7-301844a8805b",
+    "thunkableVersion": 435,
+    "bindings": null,
+    "name": "Executive Forum"
 }
