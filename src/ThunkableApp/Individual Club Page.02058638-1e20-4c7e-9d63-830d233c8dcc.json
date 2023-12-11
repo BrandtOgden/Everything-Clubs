@@ -1971,14 +1971,14 @@
                 "FontSize": 16,
                 "CustomFont": "",
                 "BackgroundColor": "rgba(93, 122, 252, 0.03)",
-                "BackgroundPicture": "cog.png",
+                "BackgroundPicture": "gearshape.fill.png",
                 "BackgroundPictureResizeMode": "contain",
-                "Height": 32,
-                "Width": 33,
+                "Height": 35,
+                "Width": 35,
                 "Visible": true,
-                "X": 320,
+                "X": 325,
                 "Y": 15,
-                "RelativeX": 320,
+                "RelativeX": 325,
                 "RelativeY": 15,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -2010,7 +2010,7 @@
                 "Disabled": false,
                 "ParentId": "02058638-1e20-4c7e-9d63-830d233c8dcc",
                 "position": "absolute",
-                "edgeOffsets": 15.999999999999996,
+                "edgeOffsets": -1.7763568394002505e-15,
                 "resizeMode": "contain"
             },
             "children": [],
@@ -2409,7 +2409,7 @@
             "properties": {
                 "Height": 546,
                 "Width": 379,
-                "Visible": false,
+                "Visible": true,
                 "X": 1,
                 "Y": 80,
                 "RelativeX": 1,
@@ -2425,7 +2425,7 @@
                     "position": "absolute",
                     "left": "31.866666666666667%",
                     "top": "32.8335832083958%",
-                    "display": "none"
+                    "display": "flex"
                 },
                 "resizeMode": "contain"
             },
