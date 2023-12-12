@@ -1,21 +1,60 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "type": "object",
-    "properties": {
-      "Boards": {
-        "type": "object",
-        "properties": {
-          "BoardID": { "type": "integer" }
-        },
-        "required": ["BoardID"]
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "Clubs": {
+      "type": "object",
+      "patternProperties": {
+        "^[0-9]+$": {
+          "type": "object",
+          "properties": {
+            "ClubForum": { "type": "string" },
+            "Description": { "type": "string" },
+            "Members": {
+              "type": "object",
+              "patternProperties": {
+                "^[0-9]+$": { "type": "string" }
+              },
+              "additionalProperties": false
+            },
+            "Name": { "type": "string" },
+            "Owner": { "type": "string" }
+          },
+          "required": ["Description", "Members", "Name", "Owner"]
+        }
       },
-      "People": {
-        "type": "object",
-        "properties": {
-          "PersonID": { "type": "integer" }
+      "properties": {
+        "Events": {
+          "type": "object",
+          "properties": {
+            "NextEventID": { "type": "integer" }
+          },
+          "required": ["NextEventID"]
         },
-        "required": ["PersonID"]
-      }
+        "NextClubID": { "type": "integer" }
+      },
+      "required": ["Events", "NextClubID"]
     },
-    "required": ["Boards", "People"]
-  }  
+    "Users": {
+      "type": "object",
+      "patternProperties": {
+        "^[0-9a-zA-Z]+$": {
+          "type": "object",
+          "properties": {
+            "Email": { "type": "string", "format": "email" },
+            "MemberOf": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "Name": { "type": "string" },
+            "NumberOfClubs": { "type": "integer" },
+            "Phone": { "type": "string" }
+          },
+          "required": ["Email", "MemberOf", "Name", "NumberOfClubs", "Phone"]
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "required": ["Clubs", "NextClubID", "Users"]
+}
