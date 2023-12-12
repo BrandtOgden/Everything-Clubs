@@ -300,6 +300,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "3a74bb31-27e7-4ebb-9286-d556e6163a2a": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -327,6 +337,9 @@
                     },
                     {
                         "id": "2f95db40-966a-42d5-8792-ae5f9611a026"
+                    },
+                    {
+                        "id": "3a74bb31-27e7-4ebb-9286-d556e6163a2a"
                     },
                     {
                         "id": "3ef1b2a4-8de7-4892-a709-0c4cb9ecb348"
@@ -541,6 +554,11 @@
                     "scope": "APP",
                     "name": "hold",
                     "screenId": "02058638-1e20-4c7e-9d63-830d233c8dcc"
+                },
+                "b8c82105-55ce-40aa-8591-2cdd0b3ba12d": {
+                    "scope": "APP",
+                    "name": "EventList",
+                    "screenId": "3a74bb31-27e7-4ebb-9286-d556e6163a2a"
                 }
             },
             "defaultDesignerDevice": "PHONE",
