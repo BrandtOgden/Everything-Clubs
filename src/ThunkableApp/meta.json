@@ -343,6 +343,37 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                },
+                "2f95db40-966a-42d5-8792-ae5f9611a026": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "65494f3874861008d6ab0a0c": {},
+                "bdf9a070-6f76-4627-82d7-301844a8805b": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "3a74bb31-27e7-4ebb-9286-d556e6163a2a": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
                 }
             },
             "categories": [
