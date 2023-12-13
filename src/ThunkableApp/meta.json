@@ -343,36 +343,6 @@
                     "enabledFeatures": {
                         "iap": false
                     }
-                },
-                "2f95db40-966a-42d5-8792-ae5f9611a026": {
-                    "xml": "",
-                    "permissions": {
-                        "android": [],
-                        "ios": []
-                    },
-                    "enabledFeatures": {
-                        "iap": false
-                    }
-                },
-                "65494f3874861008d6ab0a0c": {},
-                "bdf9a070-6f76-4627-82d7-301844a8805b": {
-                    "xml": "",
-                    "permissions": {
-                        "android": [],
-                        "ios": []
-                    },
-                    "enabledFeatures": {
-                        "iap": false
-                    }
-                },
-                "3a74bb31-27e7-4ebb-9286-d556e6163a2a": {
-                    "xml": "",
-                    "permissions": {
-                        "android": [],
-                        "ios": []
-                    },
-                    "enabledFeatures": {
-                        "iap": false
                 }
             },
             "categories": [
@@ -399,19 +369,10 @@
                         "id": "60e23856-f18a-4b04-9503-094733af3049"
                     },
                     {
-                        "id": "2f95db40-966a-42d5-8792-ae5f9611a026"
-                    },
-                    {
-                        "id": "3a74bb31-27e7-4ebb-9286-d556e6163a2a"
-                    },
-                    {
                         "id": "3ef1b2a4-8de7-4892-a709-0c4cb9ecb348"
                     },
                     {
                         "id": "a3e16afe-a982-47d0-abca-cf141f1db247"
-                    },
-                    {
-                        "id": "bdf9a070-6f76-4627-82d7-301844a8805b"
                     },
                     {
                         "id": "7ebabdc1-b588-48de-8916-abb8c546e9ed"
@@ -622,11 +583,6 @@
                     "scope": "APP",
                     "name": "hold",
                     "screenId": "02058638-1e20-4c7e-9d63-830d233c8dcc"
-                },
-                "b8c82105-55ce-40aa-8591-2cdd0b3ba12d": {
-                    "scope": "APP",
-                    "name": "EventList",
-                    "screenId": "3a74bb31-27e7-4ebb-9286-d556e6163a2a"
                 }
             },
             "defaultDesignerDevice": "PHONE",
