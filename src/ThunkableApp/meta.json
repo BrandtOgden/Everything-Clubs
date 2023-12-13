@@ -622,6 +622,11 @@
                     "scope": "APP",
                     "name": "hold",
                     "screenId": "02058638-1e20-4c7e-9d63-830d233c8dcc"
+                },
+                "b8c82105-55ce-40aa-8591-2cdd0b3ba12d": {
+                    "scope": "APP",
+                    "name": "EventList",
+                    "screenId": "3a74bb31-27e7-4ebb-9286-d556e6163a2a"
                 }
             },
             "defaultDesignerDevice": "PHONE",
