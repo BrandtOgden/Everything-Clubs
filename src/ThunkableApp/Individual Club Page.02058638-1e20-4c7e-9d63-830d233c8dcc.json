@@ -2389,7 +2389,7 @@
                 "FontSize": 16,
                 "CustomFont": "",
                 "BackgroundColor": "rgba(93, 122, 252, 0.03)",
-                "BackgroundPicture": "cog.png",
+                "BackgroundPicture": "gearshape.fill.png",
                 "BackgroundPictureResizeMode": "contain",
                 "Height": 32,
                 "Width": 33,
