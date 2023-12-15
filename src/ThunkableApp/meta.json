@@ -564,6 +564,11 @@
                     "scope": "APP",
                     "name": "EventList",
                     "screenId": "3a74bb31-27e7-4ebb-9286-d556e6163a2a"
+                },
+                "8e8450ed-01b3-4ddd-a6ba-2da32069d32b": {
+                    "scope": "APP",
+                    "name": "LM_loopId",
+                    "screenId": "60e23856-f18a-4b04-9503-094733af3049"
                 }
             },
             "defaultDesignerDevice": "PHONE",
