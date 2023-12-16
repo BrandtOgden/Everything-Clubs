@@ -596,17 +596,17 @@
                 },
                 "6a50d4f9-9099-4bff-92e4-350e505e0a0a": {
                     "scope": "APP",
-                    "name": "LM_memberNames",
+                    "name": "LM_names",
                     "screenId": "60e23856-f18a-4b04-9503-094733af3049"
                 },
                 "cc819e9c-f857-406f-926f-b6701954f914": {
                     "scope": "APP",
-                    "name": "LM_memberID",
+                    "name": "LM_selectedId",
                     "screenId": "60e23856-f18a-4b04-9503-094733af3049"
                 },
                 "fb5a12e6-c504-46fa-be1c-40fc64937a69": {
                     "scope": "APP",
-                    "name": "LM_memberIDs",
+                    "name": "LM_ids",
                     "screenId": "60e23856-f18a-4b04-9503-094733af3049"
                 },
                 "2adfe493-543e-4d1d-93ce-e0b1b0cf8354": {
