@@ -2498,7 +2498,7 @@
             "properties": {
                 "Height": 546,
                 "Width": 379,
-                "Visible": false,
+                "Visible": true,
                 "X": 0,
                 "Y": 80,
                 "RelativeX": 0,
@@ -2514,7 +2514,7 @@
                     "position": "absolute",
                     "left": "31.866666666666667%",
                     "top": "32.8335832083958%",
-                    "display": "none"
+                    "display": "flex"
                 },
                 "resizeMode": "contain"
             },
@@ -2523,7 +2523,7 @@
                     "type": "Button",
                     "translatedName": "Button",
                     "properties": {
-                        "Text": "FINANCES",
+                        "Text": "SEND NOTIFICATION",
                         "TextColor": "rgba(80, 75, 58, 1)",
                         "FontSize": 20,
                         "CustomFont": "",
@@ -2532,9 +2532,9 @@
                         "Width": 374,
                         "Visible": true,
                         "X": 0,
-                        "Y": 343,
+                        "Y": 405,
                         "RelativeX": 0,
-                        "RelativeY": 263,
+                        "RelativeY": 325,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "marginTop": 0,
@@ -2567,13 +2567,69 @@
                         "Disabled": false,
                         "ParentId": "02058638-1e20-4c7e-9d63-830d233c8dcc",
                         "position": "absolute",
-                        "edgeOffsets": 333
+                        "edgeOffsets": 404.99999999999994
                     },
                     "children": [],
                     "id": "885cdb12-98f0-46fb-aa87-c14f73b75221",
                     "thunkableVersion": 432,
                     "bindings": null,
-                    "name": "EFinaces_BTN"
+                    "name": "SendNotif_BTN"
+                },
+                {
+                    "type": "Button",
+                    "translatedName": "Button",
+                    "properties": {
+                        "Text": "VIEW MEMBERS",
+                        "TextColor": "rgba(80, 75, 58, 1)",
+                        "FontSize": 20,
+                        "CustomFont": "",
+                        "BackgroundColor": "rgba(125, 133, 112, 1)",
+                        "Height": 60,
+                        "Width": 374,
+                        "Visible": true,
+                        "X": 0,
+                        "Y": 281,
+                        "RelativeX": 0,
+                        "RelativeY": 201,
+                        "ResizeMode": "STRETCH",
+                        "style": {
+                            "marginTop": 0,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "borderRadius": 1,
+                            "shadowColor": "rgba(0, 0, 0, 0)",
+                            "shadowOpacity": 0,
+                            "scaledShadowOpacity": 0,
+                            "shadowRadius": 0,
+                            "shadowOffset": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "position": "absolute",
+                            "left": "36.93333333333333%",
+                            "top": "25.487256371814095%",
+                            "display": "flex",
+                            "borderWidth": 2,
+                            "borderColor": "rgba(0, 0, 0, 1)"
+                        },
+                        "FontBold": true,
+                        "FontItalic": false,
+                        "Raised": false,
+                        "Disabled": false,
+                        "ParentId": "02058638-1e20-4c7e-9d63-830d233c8dcc",
+                        "position": "absolute",
+                        "edgeOffsets": 283
+                    },
+                    "children": [],
+                    "id": "f2962a7f-2e59-44c5-87e4-8ac8baba3b98",
+                    "thunkableVersion": 436,
+                    "bindings": null,
+                    "name": "ViewMembers_BTN"
                 },
                 {
                     "type": "Button",
@@ -2588,9 +2644,9 @@
                         "Width": 374,
                         "Visible": true,
                         "X": 0,
-                        "Y": 281,
+                        "Y": 343,
                         "RelativeX": 0,
-                        "RelativeY": 201,
+                        "RelativeY": 263,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "marginTop": 0,
@@ -2635,7 +2691,7 @@
                     "type": "Button",
                     "translatedName": "Button",
                     "properties": {
-                        "Text": "CALENDAR",
+                        "Text": "PLAN EVENT",
                         "TextColor": "rgba(80, 75, 58, 1)",
                         "FontSize": 20,
                         "CustomFont": "",
@@ -2685,7 +2741,7 @@
                     "id": "95202147-bca9-4a11-b5b1-619fa9744561",
                     "thunkableVersion": 432,
                     "bindings": null,
-                    "name": "ECalendar_BTN"
+                    "name": "PlanEvent_BTN"
                 },
                 {
                     "type": "Button",
@@ -2906,7 +2962,7 @@
                     "type": "Button",
                     "translatedName": "Button",
                     "properties": {
-                        "Text": "CALENDAR",
+                        "Text": "VIEW MEMBERS",
                         "TextColor": "rgba(80, 75, 58, 1)",
                         "FontSize": 20,
                         "CustomFont": "",
@@ -2956,13 +3012,13 @@
                     "id": "3d06d545-9519-493f-bca6-d4b0190be433",
                     "thunkableVersion": 432,
                     "bindings": null,
-                    "name": "Calendar_BTN"
+                    "name": "ViewMember_BTN"
                 },
                 {
                     "type": "Button",
                     "translatedName": "Button",
                     "properties": {
-                        "Text": "EVENTS",
+                        "Text": "VIEW EVENTS",
                         "TextColor": "rgba(80, 75, 58, 1)",
                         "FontSize": 20,
                         "CustomFont": "",
