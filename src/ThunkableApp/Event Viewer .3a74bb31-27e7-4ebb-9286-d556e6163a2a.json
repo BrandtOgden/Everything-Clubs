@@ -1,4 +1,5 @@
 {
+    "id": "3a74bb31-27e7-4ebb-9286-d556e6163a2a",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -57,6 +58,59 @@
     },
     "children": [
         {
+            "type": "Button",
+            "translatedName": "Button",
+            "properties": {
+                "Text": "Back",
+                "TextColor": "rgba(80, 75, 58, 1)",
+                "FontSize": 20,
+                "CustomFont": "",
+                "BackgroundColor": "rgba(221, 227, 146, 1)",
+                "Height": 49,
+                "Width": 311,
+                "Visible": true,
+                "X": 32,
+                "Y": 569,
+                "RelativeX": 32,
+                "RelativeY": 569,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "borderRadius": 15,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "22.8%",
+                    "top": "63.657233883058474%",
+                    "display": "flex"
+                },
+                "FontBold": true,
+                "FontItalic": false,
+                "Raised": false,
+                "Disabled": false,
+                "ParentId": "3a74bb31-27e7-4ebb-9286-d556e6163a2a",
+                "position": "absolute",
+                "edgeOffsets": 569
+            },
+            "children": [],
+            "id": "9326ab51-3d91-4b0d-8ebc-4f5e2ebf04a3",
+            "thunkableVersion": 436,
+            "name": "Back Event Viewer"
+        },
+        {
             "type": "List Viewer",
             "translatedName": "Simple List",
             "reactType": "ListView",
@@ -66,8 +120,8 @@
                 "TextItemsBackgroundColor": "rgba(0,0,0,0)",
                 "TextItemsFontSize": 16,
                 "ShowArrow": true,
-                "Height": 509,
-                "Width": 375,
+                "Height": 455,
+                "Width": 377,
                 "Visible": true,
                 "X": 0,
                 "Y": 93,
@@ -179,7 +233,6 @@
             "name": "Current Events"
         }
     ],
-    "id": "3a74bb31-27e7-4ebb-9286-d556e6163a2a",
     "thunkableVersion": 435,
     "name": "Event Viewer "
 }
