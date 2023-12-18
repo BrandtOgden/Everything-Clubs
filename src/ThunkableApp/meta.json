@@ -295,16 +295,6 @@
                         "iap": false
                     }
                 },
-                "7ebabdc1-b588-48de-8916-abb8c546e9ed": {
-                    "xml": "",
-                    "permissions": {
-                        "android": [],
-                        "ios": []
-                    },
-                    "enabledFeatures": {
-                        "iap": false
-                    }
-                },
                 "a50d052a-1777-487d-a981-593235ad14dc": {
                     "xml": "",
                     "permissions": {
@@ -445,9 +435,6 @@
                     },
                     {
                         "id": "bdf9a070-6f76-4627-82d7-301844a8805b"
-                    },
-                    {
-                        "id": "7ebabdc1-b588-48de-8916-abb8c546e9ed"
                     }
                 ]
             },
