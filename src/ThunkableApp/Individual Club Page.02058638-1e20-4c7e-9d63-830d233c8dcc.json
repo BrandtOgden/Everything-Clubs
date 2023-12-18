@@ -2498,7 +2498,7 @@
             "properties": {
                 "Height": 546,
                 "Width": 379,
-                "Visible": true,
+                "Visible": false,
                 "X": 0,
                 "Y": 80,
                 "RelativeX": 0,
@@ -2514,7 +2514,7 @@
                     "position": "absolute",
                     "left": "31.866666666666667%",
                     "top": "32.8335832083958%",
-                    "display": "flex"
+                    "display": "none"
                 },
                 "resizeMode": "contain"
             },
