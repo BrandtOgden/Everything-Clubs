@@ -3,3 +3,4 @@
 3. US 2 (Brandt): https://docs.google.com/presentation/d/1oFjxIES9kiaSSQQGgftahRxCNqQdpNXnUxjoqU51xl8/edit?usp=sharing
 4. US 4 (James): https://docs.google.com/presentation/d/1rp8TAP1aqYZVdkPVycvZc-RWEkywaO7P4BDcRhvgMCE/edit?usp=sharing 
 5. US 5 (Sam): https://docs.google.com/presentation/d/1ZvsMnZEqTY0KcdLwwGt9fMX6jWNZjvMniJa_6KVhBg4/edit#slide=id.p
+6. US 3: (Brandt) https://docs.google.com/presentation/d/1TTZWKDBJBdt64InS4FwOI5yfTz9fFYNJU-ElHYy7yAc/edit?usp=sharing
