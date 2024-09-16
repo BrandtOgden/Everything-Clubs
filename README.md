@@ -5,7 +5,7 @@
 This is the repository where everything our group has completed over the semester is housed. The JSON and XML files associated with our Thunkable app are in the src/ThunkableApp
 directory. We have a website which serves as user level documentation for our app in the docs folder. We also have developer documentation in the Wiki section where
 devlopers that want to understand how we built our app can go. We have a variety of different business documents including a Lean Canvas Stack Business Plan. We also have the different user
-stories, and the test cases for those user stories here. This reposiroty is linked to a Github Projects page that houses the Kanban board that facilitated the process of SCRUM 
+stories, and the test cases for those user stories here. This repository is linked to a Github Projects page that houses the Kanban board that facilitated the process of SCRUM 
 software development.
 
 # Instructions for Downloading
